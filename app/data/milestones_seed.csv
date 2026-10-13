@@ -1,0 +1,152 @@
+budget,milestone,title,type,start,end,confidence,notes
+Botswana,BOT01,Implementation governance & transition baseline,Milestone,2026-10-01,2026-12-01,High,
+Botswana,BOT02,DCHIS dashboard-driven review cycles,Milestone,2026-10-01,2026-12-01,High,
+Botswana,BOT03,"Secure device management, cybersecurity & data protection",Milestone,2026-10-01,2026-11-01,High,
+Botswana,BOT04,eLMIS requirements & priority interoperability flows,Milestone,2026-10-01,2026-12-01,High,
+Botswana,BOT05,Commodity quantification & stock visibility,Milestone,2026-10-01,2026-12-01,High,
+Botswana,BOT06,eIDSR integration & client portal services,Milestone,2026-10-01,2026-12-01,High,
+Botswana,MBOT00,Mobilization & operational readiness,Milestone,2026-09-01,2026-09-01,High,
+Burundi,BUR01,Priority-district outbreak alerts notified within one day,Milestone,2026-09-01,2026-12-01,High,
+Burundi,BUR02,Data-review coaching delivered; end-line DQA shows improvement,Milestone,2026-10-01,2027-02-01,High,
+Burundi,BUR03,Harmonized DHIS2/EMR tools & malaria module operational,Milestone,2026-10-01,2027-02-01,High,
+Burundi,BUR04,Digital decision-support tools used for program & outbreak decisions,Milestone,2026-09-01,2027-02-01,High,
+Burundi,BUR05,"National HIS resilience, support & MoH operational ownership",Milestone,2026-09-01,2027-02-01,High,
+Burundi,BUR06,Priority interoperability exchanges validated & operational,Milestone,2026-09-01,2027-02-01,High,
+Burundi,BUR07,Lab-to-EOC/surveillance bridge operational,Milestone,2026-09-01,2027-02-01,High,
+Burundi,BUR08,"Digital-health TWGs operate with mandates, action closure & MoH planning",Milestone,2026-09-01,2027-03-01,High,
+Burundi,MBUR0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-09-01,2026-12-01,High,
+CORE G2G,MM0.3,Mobilization & operational readiness (PFM & G2G),Mobilization (not in budget),2026-09-01,2026-12-01,High,
+CORE G2G,T1.5,"G2G milestone frameworks, training & learning",Milestone,2026-09-01,2027-09-01,Medium,"Header 'Start/End' and Planned Milestone Date say Aug-2027, and the Gantt title says 'FY2027 (Sep 2026 to Aug 2027)', but 5 activities (A1, A12-A15) and the Gantt run to Sep-2027. Followed activity-level evidence; if Aug-27 is right, drop Sep-27."
+CORE-EMR ECHIS,C2,eCHIS global public good,Milestone,2026-10-01,2027-09-01,Medium,Doc never states what calendar month 'Month 1' is. Month 1 = Oct-26 is inferred: Q3 reviews at M7-M9 (Apr-Jun) and the T1.8/C2 planned milestone date of 14 Sep 2027 only fit Oct-26 start.
+CORE-EMR ECHIS,MM0.1,Mobilization & operational readiness (C2),Mobilization (not in budget),2026-09-01,2026-12-01,High,
+CORE-EMR ECHIS,MM0.2,Mobilization & operational readiness (T1.8),Mobilization (not in budget),2026-09-01,2026-12-01,High,
+CORE-EMR ECHIS,T1.8,"High-impact HIV interventions (Kenya, Eswatini)",Milestone,2026-10-01,2027-09-01,Medium,"Same Month 1 = Oct-26 inference as C2. Minor: T1.8-A05 table says M1-M2, Gantt shows M2 only."
+CORE-Ebola,E1,"EVD preparedness, early warning, surge staffing & contact tracing",Milestone,2027-01-01,2027-06-01,Medium,"CONFLICT: milestone header End Month and Planned Milestone Date say Sep-2027 (Q4 FY2027), and the summary Gantt shades Jan-Sep, but every activity ends by Jun-27 and all E1 evidence is due Q3 FY2027. Window shown = activity window; extend to Sep-27 if the header governs."
+CORE-Ebola,E2,Cross-border EVD detection & response coordination,Milestone,2027-01-01,2027-09-01,Medium,"CONFLICT: milestone header Start Month says October 2026, but the first activity (E2-A1.1) starts Jan-27 in the table and both Gantts. Followed the activities."
+CORE-Ebola,E3,EVD laboratory connectivity & case-management data readiness,Milestone,2026-10-01,2027-09-01,Medium,"SUMMARY GANTT DISAGREES: it shades E3 Jan-Sep 2027 like the other EVD milestones; the header, the activity table (E3-A1 starts M1) and the detailed Gantt all start Oct-26."
+CORE-Ebola,MM0.6,Mobilization & operational readiness (Ebola/DRC),Mobilization (not in budget),2026-10-01,2026-12-01,High,
+CORE-Ebola,T1.4,"Faster EVD detection, notification & response (7-1-7)",Milestone,2027-01-01,2027-09-01,High,
+CORE-HIC,C1a,Generalized HIC Digital Kit (global good),Milestone,2026-09-01,2027-03-01,Medium,"GANTT DISAGREES: the C1a bars are compressed into Sep-Dec 2026 (e.g. A12 publication shown Dec-26 vs Mar-27 in the table; A4-A11 start/end 1-2 months early), plus a Jan-Aug 2027 'kit maintenance' row (A13) that has no activity-table row (the text assigns maintenance to C1b). Followed the activity table. Header start is Oct-26; A1-A3 begin Sep-26."
+CORE-HIC,C1b,"HIC country implementations (Kenya, Botswana, Sierra Leone)",Milestone,2026-09-01,2027-08-01,Medium,Header says Month 1 (Oct-26)..Month 11 (Aug-27) while the progress-review table lists 'Final Achievement' at Month 12 (Sep-27); A1 starts Sep-26. Gantt row A11 has a Jul-27 gap (Jun and Aug only) vs. table Jun-Aug. Table lists activity 'C1b-A17' (likely A7).
+CORE-HIC,MM0.5,Mobilization & operational readiness (HIC),Mobilization (not in budget),2026-09-01,2026-12-01,High,No bar for MM0.5 in the doc's Gantt.
+CORE-Supply Chain,C5,Supply Chain Control Tower,Milestone,2026-10-01,2027-09-01,High,Header describes build as Month 1-9 (to Jun-27) with sustainment/handover to Month 12; window shown includes sustainment.
+CORE-Supply Chain,C6,eLMIS & last-mile supply chain digitization,Milestone,2026-10-01,2027-09-01,High,
+CORE-Supply Chain,C7,Molecular Diagnostics Control Tower,Milestone,2026-10-01,2027-09-01,High,
+CORE-Supply Chain,MM0.4,Mobilization & operational readiness (Supply chain),Mobilization (not in budget),2026-09-01,2026-12-01,High,No bar for MM0.4 in the doc's Gantt.
+CORE-Supply Chain,T1.6,Digitally enabled diagnostics-to-treatment linkage,Milestone,2026-10-01,2027-09-01,High,
+DRC,DRC00,Mobilization,Mobilization (not in budget),2026-10-01,2026-12-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q1 FY2027.
+DRC,DRC01,Cybersecurity,Milestone,2026-10-01,2027-02-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q2 FY2027.
+DRC,DRC02,DHIS2 Polio/AFP,Milestone,2026-10-01,2027-03-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q3 FY2027.
+DRC,DRC03,Data-quality supervision,Milestone,2026-10-01,2027-03-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q3 FY2027.
+DRC,DRC04,Interoperability / eLIS,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+DRC,DRC05,EMR site readiness,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+DRC,DRC06,OpenMRS deployment,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+DRC,DRC07,Data warehouse,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+DRC,DRC08,DQR cycles,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+DRC,DRC09,Digital governance,Milestone,2026-10-01,2027-09-01,Medium,Gantt-only: the doc has no activity table or header dates for DRC00-DRC09 to cross-check. Payment-quarter target Q4 FY2027.
+El Salvador,ELS01,National Surveillance Dashboards & Outbreak-Intelligence Data Flows Operational,Milestone,2026-10-01,2027-04-01,High,
+El Salvador,ELS02,Alert escalation and response workflow achieves measurable notification and response timeliness in 25 sentinel health facilities,Milestone,2026-10-01,2027-04-01,High,
+El Salvador,ELS03,At least two cross-subsector interoperability use cases validated and used end-to-end,Milestone,2026-10-01,2027-04-01,High,
+El Salvador,ELS04,"SUMEVE data quality assessment process implemented, institutionalized, and demonstrates measurable improvement in priority data quality",Milestone,2026-10-01,2027-04-01,High,
+El Salvador,ELS05,A phased community–PHC–referral cohort reports reliably and closes referral feedback loops,Milestone,2026-10-01,2027-04-01,High,
+El Salvador,MELS0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-11-01,High,
+Eswatini,ESW01,National Data Center decision framework and implementation roadmap endorsed,Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW02,"National HIE & Priority Clinical, Surveillance and Supply-Chain Integrations Operational",Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW03,Comprehensive CMIS Deployment to Four Additional and Four Inpatient Sites,Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW04,CMIS reliability/Helpdesk performance and DR/cybersecurity governance verified as separate payable sub-results,Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW05,"CMIS Transition, Sustainability & Workforce Ownership Package",Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW06,CMIS programme enhancements and AI-enabled follow-up use cases operational,Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW07,"Phase 1 MOU indicators mapped and available through reliable NDR pipelines and dashboards, with automated CMIS data management processes and optimized data pipelines",Milestone,2026-10-01,2026-12-01,High,
+Eswatini,ESW08,Facility Data-Use Improvement & MOH Information Products Institutionalized,Milestone,2026-10-01,2026-12-01,High,
+Eswatini,MESW0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-11-01,High,
+Ethiopia,ETH01,Dagu Platforms Operational and Interoperable,Milestone,2026-10-01,2027-03-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH02,Validated Indicators and Reporting Performance Improved,Milestone,2026-10-01,2027-03-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH03,Infrastructure Readiness in 48 Priority Facilities,Milestone,2026-10-01,2027-03-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH04,HRT and Health Financing Dashboards in Routine Use,Milestone,2026-10-01,2027-03-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH05,Analytics Platforms and Performance Dashboards Operational,Milestone,2026-11-01,2027-04-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH06,Priority Systems Exchanging Data Through Interoperability Services,Milestone,2026-11-01,2027-04-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH07,Multi-tenant EthioEMR Operational in 48 Facilities,Milestone,2026-11-01,2027-06-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH08,Provider Payment and CBHI Reform Package Piloted,Milestone,2026-12-01,2027-06-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH09,Regional Data Quality and Performance Review Improved,Milestone,2026-12-01,2027-09-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH10,HIV Case-Based Surveillance Dashboards Operational,Milestone,2026-10-01,2027-03-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH11,Urban eCHIS Modules Piloted and Ready for Scale-up,Milestone,2027-01-01,2027-07-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH12,"Digital Governance, Cybersecurity and Platform Sustainability",Milestone,2027-01-01,2027-07-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH13,Integrated Surveillance and Response Systems Operational in Four Regions,Milestone,2027-01-01,2027-07-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,ETH14,"Health Financing Management, Claims Auditing and Oversight Strengthened",Milestone,2027-02-01,2027-09-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Ethiopia,METH0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-11-01,High,Month 1 = Oct-26 per user (file itself has no calendar anchor)
+Kenya,KEN01,Integrated digital health and commodity-data workflows validated,Milestone,2026-09-01,2026-12-01,High,
+Kenya,KEN02,"National data platforms, analytics and decision-use operational",Milestone,2026-10-01,2026-12-01,High,
+Kenya,KEN03,Malaria data quality and surveillance analytics validated,Milestone,2026-09-01,2026-12-01,High,
+Kenya,KEN04,Epidemic intelligence and alert proof of concept demonstrated,Milestone,2026-09-01,2026-12-01,High,
+Kenya,KEN05,"Digital operations, security and service transition accepted",Milestone,2026-09-01,2026-12-01,High,
+Kenya,KEN06,"HIS certification, hosting and administration capability transferred",Milestone,2026-09-01,2026-12-01,High,
+Kenya,KEN07,Sustainability financing and institutionalization package submitted,Milestone,2026-09-01,2026-12-01,High,
+Kenya,MKEN0,Program mobilization and implementation governance operational,Mobilization (not in budget),2026-09-01,2026-10-01,High,
+Lesotho,LES01,"OpenELIS Design, Migration & Production Readiness Validated",Milestone,2026-10-01,2027-01-01,High,
+Lesotho,LES02,Supply-Chain Implementation Capacity Established,Milestone,2026-10-01,2027-03-01,High,
+Lesotho,LES03,"eLMIS Readiness, Commodity Baseline & Quantification Package Validated",Milestone,2026-10-01,2027-03-01,High,
+Lesotho,LES04,iHRIS Workforce Data Standardization,Milestone,2026-10-01,2027-03-01,High,
+Lesotho,LES05,National Analytics & CQI Information Platforms Operational and Used,Milestone,2026-10-01,2027-03-01,High,
+Lesotho,LES06,"Digital-Health Governance, Cybersecurity & Country-Ownership Roadmap Established",Milestone,2026-10-01,2027-03-01,High,
+Lesotho,LES07,Informed-push process transitioned to a fully eLMIS workflow and national reporting integration,Milestone,2026-10-01,2027-03-01,High,
+Lesotho,MLES0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-10-01,High,
+Madagascar,MAD01,"DEPSI capacity for routine DHIS2 administration, maintenance and recovery established through national helpdesk",Milestone,2026-10-01,2027-02-01,High,
+Madagascar,MAD02,"Program Dashboards, MoU Monitoring & HIS Governance Used in Routine Oversight",Milestone,2026-10-01,2027-02-01,High,
+Madagascar,MAD03,Mobile scorecard usage-monitoring results demonstrate active use in three districts,Milestone,2026-10-01,2027-04-01,High,
+Madagascar,MAD04,USG portfolio assessment and electronic oversight platform operational,Milestone,2026-10-01,2027-09-01,High,
+Madagascar,MAD05,"GHS investigation indicators, dashboards and analytics toolkit operational",Milestone,2027-01-01,2027-06-01,High,
+Madagascar,MAD06,Extended GAS application requirements validated and government users demonstrate competency,Milestone,2026-10-01,2027-05-01,High,
+Madagascar,MAD07,Electronic Master Facility List Operationalization,Milestone,2026-11-01,2027-06-01,High,
+Madagascar,MAD08,RMA module test deployment completed in two districts with competent users,Milestone,2026-10-01,2027-06-01,High,
+Madagascar,MAD09,Interoperability Sandbox & Mpox Data Exchange,Milestone,2026-11-01,2027-06-01,High,
+Madagascar,MAD10,Standard Case-Investigation Instruments & Investigator Competency Established,Milestone,2026-11-01,2027-06-01,High,
+Madagascar,MAD11,Program & Logistics Data-Quality Improvement Demonstrated,Milestone,2026-12-01,2027-07-01,High,
+Madagascar,MMAD0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-11-01,High,
+Moldova,MMOL0,Mobilization and operational readiness,Mobilization (not in budget),2026-09-01,2026-12-01,High,
+Moldova,MOL01,"Hospital Passport data governance, pipelines and analytics operational",Milestone,2026-09-01,2027-05-01,High,
+Moldova,MOL02,One Health AMR surveillance and lab-to-surveillance turnaround,Milestone,2026-09-01,2027-08-01,High,
+Moldova,MOL03,Domestic financing and costing tools in use,Milestone,2026-09-01,2027-05-01,High,
+Moldova,MOL04,AMS governance and quality-management mechanisms operational,Milestone,2026-09-01,2027-06-01,High,
+Moldova,MOL05,AMS workforce competency and facility-level application,Milestone,2026-09-01,2027-06-01,High,
+Namibia,MNAM0,Mobilization & Operational Readiness,Mobilization (not in budget),2026-10-01,2026-10-01,High,
+Namibia,NAM01,"HIS Stewardship, Support & Administrator Capacity Operational",Milestone,2026-10-01,2026-12-01,High,
+Namibia,NAM02,IDSR dashboard and automated outbreak analytics pipelines operational and tested,Milestone,2026-10-01,2026-12-01,High,
+Namibia,NAM03,HIV/TB SI Tools & Data-Use Capacity Validated,Milestone,2026-10-01,2027-03-01,High,
+Namibia,NAM04,Surveillance & Outbreak-Analytics Readiness and Epidemiology Capacity Established,Milestone,2026-10-01,2027-02-01,High,
+Namibia,NAM05,"Commodity Analytics, Forecasting & Supply Planning Applied",Milestone,2026-10-01,2027-03-01,High,
+Namibia,NAM06,Supply-Chain Procedures & Institutional Capacity Implemented,Milestone,2026-10-01,2027-03-01,High,
+Namibia,NAM07,Namibia Digital Community Health System Pilot Deployed & Operational,Milestone,2027-01-01,2027-03-01,High,
+Namibia,NAM08,HIS data-quality and data-use dashboards operational and used in routine reviews,Milestone,2026-10-01,2027-03-01,Medium,"Gantt bar ends Feb-27, but Planned End on the timeline tab and the Workplan tab both say Mar-27; recommended window follows the two text sources."
+Namibia,NAM09,HIV/TB SI support demonstrates data-quality improvement with approval-risk mitigation,Milestone,2026-10-01,2027-03-01,High,
+Namibia,NAM10,Pharmaceutical Digital Systems & EDT Support Operational,Milestone,2026-10-01,2027-03-01,High,
+Niger,MNIG0,Program mobilization and implementation governance operational,Mobilization (not in budget),2026-10-01,2026-10-01,High,
+Niger,NIG01,Decision-Support Analytics Operational & Independently Used by DSRE,Milestone,2026-10-01,2027-02-01,High,
+Niger,NIG02,MoH-Owned HIS Helpdesk & e-Learning Capability Operational,Milestone,2026-10-01,2027-02-01,High,
+Niger,NIG03,mSupply–OpenFn–DHIS2 Integration Operational in Production,Milestone,2026-10-01,2027-04-01,High,
+Niger,NIG04,Ten named public/private priority pharmacies actively use mSupply with verified data quality,Milestone,2026-10-01,2027-04-01,High,
+Niger,NIG05,"DHIS2 Platform Upgrade, Resilience & Recovery Verified",Milestone,2026-10-01,2027-05-01,High,
+Niger,NIG06,"GHS Data Governance, DQA & 7-1-7 Timeliness Improvement Demonstrated",Milestone,2026-10-01,2027-05-01,High,
+Niger,NIG07,Malaria & MCH Data-Quality Improvement,Milestone,2026-10-01,2027-07-01,High,
+Niger,NIG08,Priority Interoperability Use Cases Validated,Milestone,2026-11-01,2027-07-01,High,
+Niger,NIG09,Laboratory Digitization & Specimen Traceability,Milestone,2026-10-01,2027-07-01,High,
+Niger,NIG10,"Digital Governance, Transition & Sustainability Framework Operational",Milestone,2026-10-01,2027-08-01,High,
+Nigeria,MNRA0,Mobilization and Operational Readiness,Mobilization (not in budget),2026-10-01,2026-12-01,High,
+Nigeria,NRA01,Priority service performance dashboards functional and actively used,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA02,Data quality and corrective-action cycle validated,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA03,Linkage of Community/PHC/referral data with closed systems loops,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA04,Priority interoperability use cases validated end-to-end,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA05,"Unified data pipelines, repositories, and analytics products operational and used for decisions",Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA06,"Reporting quality, timeliness & concordance",Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA07,Operational AWS-hosted infrastructure with continuous uptime monitoring and support mechanisms,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA08,"System reliability, cybersecurity, and user support controls operationalized",Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA09,LAMISPlus-to-NDR outbreak-intelligence flow supports seven-day identification and timely updates,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA10,Alert escalation & response workflow functioning,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA11,Transition governance & handover readiness,Milestone,2026-10-01,2026-12-01,High,
+Nigeria,NRA12,"Domestic financing, PFM & governance use",Milestone,2026-10-01,2026-12-01,High,
+Honduras,HON01,"Rapid-Response Workforce Certified, Deployed & Operating in Priority Regions",Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Honduras,HON02,One Health governance and municipal roundtables operational and supporting early response coordination,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Honduras,HON03,Early warning surveillance and laboratory information flows operational across prioritized regions,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Honduras,HON04,Rapid response teams implement the 7-1-7 approach and use Early Action Reviews to improve outbreak response performance,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Sierra Leone,SIL01,Operationalize a Transition Management Unit (TMU) and steering committee for at least three operating cycles with closed transition actions,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Sierra Leone,SIL02,Validate two costed DRM products  with at least one used in a financing decision,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months
+Sierra Leone,SIL03,Four zonal leadership cohorts complete required curriculum and applied governance/financial management,Milestone,,,,NO WORKPLAN PROVIDED - enter start/end months

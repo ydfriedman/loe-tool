@@ -1,0 +1,1594 @@
+person,budget,milestone,loe_days,role
+"Berihun, Tewodros",CORE-EMR ECHIS,C2,10.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-EMR ECHIS,T1.8,4.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-Ebola,E1,13.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-Ebola,E2,13.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-Ebola,E3,6.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-Ebola,T1.4,12.0,Senior Data Scientist
+"Berihun, Tewodros",CORE-HIC,C1a,10.684,Senior Data Scientist
+"Berihun, Tewodros",CORE-HIC,C1b,13.059,Senior Data Scientist
+"Berihun, Tewodros",CORE-Supply Chain,C5,15.122,Senior Data Scientist
+"Berihun, Tewodros",CORE-Supply Chain,C6,33.467,Senior Data Scientist
+"Berihun, Tewodros",CORE-Supply Chain,C7,17.2,Senior Data Scientist
+"Berihun, Tewodros",CORE-Supply Chain,T1.6,7.42,Senior Data Scientist
+"Bradford, Stephanie",CORE G2G,T1.5,14.511,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-EMR ECHIS,C2,20.0,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-EMR ECHIS,T1.8,5.0,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-HIC,C1a,19.59,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-HIC,C1b,23.943,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-Supply Chain,C5,27.726,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-Supply Chain,C6,61.361,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-Supply Chain,C7,31.536,Operations Senior Manager Pool-17
+"Bradford, Stephanie",CORE-Supply Chain,T1.6,13.604,Operations Senior Manager Pool-17
+"Cavanaugh, Clint",CORE-EMR ECHIS,C2,5.132,Senior Health Director
+"Cavanaugh, Clint",CORE-EMR ECHIS,T1.8,2.0,Senior Health Director
+"Cavanaugh, Clint",CORE-Ebola,E1,2.0,Senior Health Director
+"Cavanaugh, Clint",CORE-Ebola,E2,2.0,Senior Health Director
+"Cavanaugh, Clint",CORE-Ebola,E3,2.0,Senior Health Director
+"Cavanaugh, Clint",CORE-Ebola,T1.4,3.0,Senior Health Director
+"Cavanaugh, Clint",CORE-HIC,C1a,3.849,Senior Health Director
+"Cavanaugh, Clint",CORE-HIC,C1b,4.704,Senior Health Director
+"Cavanaugh, Clint",CORE-Supply Chain,C5,5.448,Senior Health Director
+"Cavanaugh, Clint",CORE-Supply Chain,C6,17.962,Senior Health Director
+"Cavanaugh, Clint",CORE-Supply Chain,C7,0.291,Senior Health Director
+"Cavanaugh, Clint",CORE-Supply Chain,T1.6,2.673,Senior Health Director
+"Cisse, Carol",CORE-Ebola,E1,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",CORE-Ebola,E2,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",CORE-Ebola,E3,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",CORE-Ebola,T1.4,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC01,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC03,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC04,40.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC05,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC06,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC07,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC08,20.0,Operations Senior Manager Pool-17
+"Cisse, Carol",DRC,DRC09,20.0,Operations Senior Manager Pool-17
+"Clanton, Kaley",CORE G2G,T1.5,10.593,Associate Pool
+"Clanton, Kaley",CORE-EMR ECHIS,C2,9.0,Associate Pool
+"Clanton, Kaley",CORE-EMR ECHIS,T1.8,5.0,Associate Pool
+"Clanton, Kaley",CORE-HIC,C1a,17.75,Associate Pool
+"Clanton, Kaley",CORE-HIC,C1b,27.827,Associate Pool
+"Clanton, Kaley",CORE-Supply Chain,C5,33.829,Associate Pool
+"Clanton, Kaley",CORE-Supply Chain,C6,71.0,Associate Pool
+"Clanton, Kaley",CORE-Supply Chain,C7,38.0,Associate Pool
+"Clanton, Kaley",CORE-Supply Chain,T1.6,17.0,Associate Pool
+"Claussen, Laurence",Botswana,BOT01,0.93,Comms Manager
+"Claussen, Laurence",Botswana,BOT02,0.41,Comms Manager
+"Claussen, Laurence",Botswana,BOT03,0.67,Comms Manager
+"Claussen, Laurence",Botswana,BOT05,0.66,Comms Manager
+"Claussen, Laurence",Botswana,BOT06,1.33,Comms Manager
+"Claussen, Laurence",Burundi,BUR01,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR02,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR03,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR04,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR05,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR06,0.5,Comms Manager
+"Claussen, Laurence",Burundi,BUR07,1.0,Comms Manager
+"Claussen, Laurence",Burundi,BUR08,1.0,Comms Manager
+"Claussen, Laurence",CORE G2G,T1.5,4.053,Comms Manager
+"Claussen, Laurence",CORE-EMR ECHIS,C2,7.295,Comms Manager
+"Claussen, Laurence",CORE-EMR ECHIS,T1.8,2.0,Comms Manager
+"Claussen, Laurence",CORE-Ebola,E1,6.0,Comms Manager
+"Claussen, Laurence",CORE-Ebola,E2,5.0,Comms Manager
+"Claussen, Laurence",CORE-Ebola,E3,4.0,Comms Manager
+"Claussen, Laurence",CORE-Ebola,T1.4,8.0,Comms Manager
+"Claussen, Laurence",CORE-HIC,C1a,5.472,Comms Manager
+"Claussen, Laurence",CORE-HIC,C1b,6.687,Comms Manager
+"Claussen, Laurence",CORE-Supply Chain,C5,7.744,Comms Manager
+"Claussen, Laurence",CORE-Supply Chain,C6,17.138,Comms Manager
+"Claussen, Laurence",CORE-Supply Chain,C7,8.808,Comms Manager
+"Claussen, Laurence",CORE-Supply Chain,T1.6,3.8,Comms Manager
+"Claussen, Laurence",DRC,DRC01,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC03,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC04,4.0,Comms Manager
+"Claussen, Laurence",DRC,DRC05,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC06,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC07,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC08,2.0,Comms Manager
+"Claussen, Laurence",DRC,DRC09,3.0,Comms Manager
+"Claussen, Laurence",El Salvador,ELS01,1.0,Comms Manager
+"Claussen, Laurence",El Salvador,ELS02,1.0,Comms Manager
+"Claussen, Laurence",El Salvador,ELS03,1.0,Comms Manager
+"Claussen, Laurence",El Salvador,ELS04,1.0,Comms Manager
+"Claussen, Laurence",El Salvador,ELS05,1.0,Comms Manager
+"Claussen, Laurence",Eswatini,ESW01,0.625,Comms Manager
+"Claussen, Laurence",Eswatini,ESW02,0.625,Comms Manager
+"Claussen, Laurence",Eswatini,ESW03,1.25,Comms Manager
+"Claussen, Laurence",Eswatini,ESW04,0.625,Comms Manager
+"Claussen, Laurence",Eswatini,ESW07,0.625,Comms Manager
+"Claussen, Laurence",Eswatini,ESW08,0.625,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH01,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH02,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH03,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH04,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH05,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH06,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH07,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH08,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH09,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH10,4.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH11,5.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH12,5.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH13,5.0,Comms Manager
+"Claussen, Laurence",Ethiopia,ETH14,5.0,Comms Manager
+"Claussen, Laurence",Honduras,HON01,1.5,Comms Manager
+"Claussen, Laurence",Honduras,HON02,1.5,Comms Manager
+"Claussen, Laurence",Honduras,HON03,1.5,Comms Manager
+"Claussen, Laurence",Honduras,HON04,1.5,Comms Manager
+"Claussen, Laurence",Kenya,KEN01,5.0,Comms Manager
+"Claussen, Laurence",Kenya,KEN02,6.0,Comms Manager
+"Claussen, Laurence",Lesotho,LES01,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES02,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES03,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES04,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES05,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES06,0.57,Comms Manager
+"Claussen, Laurence",Lesotho,LES07,0.58,Comms Manager
+"Claussen, Laurence",Madagascar,MAD01,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD02,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD03,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD04,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD05,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD06,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD07,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD08,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD09,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD10,0.5,Comms Manager
+"Claussen, Laurence",Madagascar,MAD11,1.0,Comms Manager
+"Claussen, Laurence",Moldova,MOL03,0.5,Comms Manager
+"Claussen, Laurence",Namibia,NAM02,1.0,Comms Manager
+"Claussen, Laurence",Namibia,NAM03,1.5,Comms Manager
+"Claussen, Laurence",Namibia,NAM04,1.5,Comms Manager
+"Claussen, Laurence",Namibia,NAM05,1.0,Comms Manager
+"Claussen, Laurence",Namibia,NAM06,1.0,Comms Manager
+"Claussen, Laurence",Namibia,NAM08,1.0,Comms Manager
+"Claussen, Laurence",Namibia,NAM09,1.0,Comms Manager
+"Claussen, Laurence",Namibia,NAM10,1.0,Comms Manager
+"Claussen, Laurence",Niger,NIG01,0.24,Comms Manager
+"Claussen, Laurence",Niger,NIG02,0.33,Comms Manager
+"Claussen, Laurence",Niger,NIG03,0.23,Comms Manager
+"Claussen, Laurence",Niger,NIG04,0.16,Comms Manager
+"Claussen, Laurence",Niger,NIG05,0.44,Comms Manager
+"Claussen, Laurence",Niger,NIG06,0.17,Comms Manager
+"Claussen, Laurence",Niger,NIG07,0.4,Comms Manager
+"Claussen, Laurence",Niger,NIG08,0.11,Comms Manager
+"Claussen, Laurence",Niger,NIG09,0.7,Comms Manager
+"Claussen, Laurence",Niger,NIG10,0.22,Comms Manager
+"Claussen, Laurence",Nigeria,NRA01,0.5,Comms Manager
+"Claussen, Laurence",Nigeria,NRA03,0.5,Comms Manager
+"Claussen, Laurence",Nigeria,NRA05,0.5,Comms Manager
+"Claussen, Laurence",Nigeria,NRA07,0.5,Comms Manager
+"Claussen, Laurence",Sierra Leone,SIL01,0.5,Comms Manager
+"Claussen, Laurence",Sierra Leone,SIL02,0.5,Comms Manager
+"Claussen, Laurence",Sierra Leone,SIL03,0.5,Comms Manager
+"DiVenanzo, Lauren",CORE-EMR ECHIS,C2,20.352,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-EMR ECHIS,T1.8,5.0,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Ebola,E1,21.0,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Ebola,E2,20.0,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Ebola,E3,5.0,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Ebola,T1.4,15.0,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-HIC,C1a,15.264,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-HIC,C1b,18.656,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Supply Chain,C5,21.603,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Supply Chain,C6,47.81,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Supply Chain,C7,24.571,Senior Tech Advisor - Digital
+"DiVenanzo, Lauren",CORE-Supply Chain,T1.6,10.6,Senior Tech Advisor - Digital
+"Friedman, Jonathan",Botswana,BOT01,0.67,AI/ML Lead
+"Friedman, Jonathan",Botswana,BOT02,0.67,AI/ML Lead
+"Friedman, Jonathan",Botswana,BOT03,0.67,AI/ML Lead
+"Friedman, Jonathan",Botswana,BOT04,0.67,AI/ML Lead
+"Friedman, Jonathan",Botswana,BOT05,0.66,AI/ML Lead
+"Friedman, Jonathan",Botswana,BOT06,0.66,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR01,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR02,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR03,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR04,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR05,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR06,0.5,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR07,1.0,AI/ML Lead
+"Friedman, Jonathan",Burundi,BUR08,1.0,AI/ML Lead
+"Friedman, Jonathan",CORE-EMR ECHIS,C2,10.667,AI/ML Lead
+"Friedman, Jonathan",CORE-EMR ECHIS,T1.8,3.0,AI/ML Lead
+"Friedman, Jonathan",CORE-HIC,C1a,8.0,AI/ML Lead
+"Friedman, Jonathan",CORE-HIC,C1b,9.778,AI/ML Lead
+"Friedman, Jonathan",CORE-Supply Chain,C5,11.621,AI/ML Lead
+"Friedman, Jonathan",CORE-Supply Chain,C6,25.718,AI/ML Lead
+"Friedman, Jonathan",CORE-Supply Chain,C7,13.218,AI/ML Lead
+"Friedman, Jonathan",CORE-Supply Chain,T1.6,5.702,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC01,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC03,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC04,4.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC05,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC06,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC07,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC08,2.0,AI/ML Lead
+"Friedman, Jonathan",DRC,DRC09,3.0,AI/ML Lead
+"Friedman, Jonathan",El Salvador,ELS01,1.0,AI/ML Lead
+"Friedman, Jonathan",El Salvador,ELS02,1.0,AI/ML Lead
+"Friedman, Jonathan",El Salvador,ELS03,1.0,AI/ML Lead
+"Friedman, Jonathan",El Salvador,ELS04,1.0,AI/ML Lead
+"Friedman, Jonathan",El Salvador,ELS05,1.0,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW01,0.625,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW02,0.625,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW03,1.25,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW04,0.625,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW07,0.625,AI/ML Lead
+"Friedman, Jonathan",Eswatini,ESW08,0.625,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH01,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH02,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH03,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH04,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH05,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH06,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH07,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH08,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH09,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH10,4.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH11,5.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH12,5.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH13,5.0,AI/ML Lead
+"Friedman, Jonathan",Ethiopia,ETH14,5.0,AI/ML Lead
+"Friedman, Jonathan",Honduras,HON01,1.5,AI/ML Lead
+"Friedman, Jonathan",Honduras,HON02,1.5,AI/ML Lead
+"Friedman, Jonathan",Honduras,HON03,1.5,AI/ML Lead
+"Friedman, Jonathan",Honduras,HON04,1.5,AI/ML Lead
+"Friedman, Jonathan",Kenya,KEN01,4.3,AI/ML Lead
+"Friedman, Jonathan",Kenya,KEN02,6.49,AI/ML Lead
+"Friedman, Jonathan",Kenya,KEN04,0.21,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES01,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES02,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES03,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES04,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES05,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES06,0.57,AI/ML Lead
+"Friedman, Jonathan",Lesotho,LES07,0.58,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD01,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD02,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD03,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD04,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD05,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD06,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD07,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD08,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD09,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD10,0.5,AI/ML Lead
+"Friedman, Jonathan",Madagascar,MAD11,1.0,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM03,1.5,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM04,2.5,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM05,1.0,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM06,1.0,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM08,1.0,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM09,1.0,AI/ML Lead
+"Friedman, Jonathan",Namibia,NAM10,1.0,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG01,0.24,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG02,0.33,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG03,0.23,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG04,0.16,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG05,0.44,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG06,0.17,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG07,0.4,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG08,0.11,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG09,0.7,AI/ML Lead
+"Friedman, Jonathan",Niger,NIG10,0.22,AI/ML Lead
+"Friedman, Jonathan",Nigeria,NRA01,0.5,AI/ML Lead
+"Friedman, Jonathan",Nigeria,NRA03,0.5,AI/ML Lead
+"Friedman, Jonathan",Nigeria,NRA05,0.5,AI/ML Lead
+"Friedman, Jonathan",Nigeria,NRA07,0.5,AI/ML Lead
+"Friedman, Jonathan",Sierra Leone,SIL01,0.5,AI/ML Lead
+"Friedman, Jonathan",Sierra Leone,SIL02,1.0,AI/ML Lead
+"Friedman, Jonathan",Sierra Leone,SIL03,0.5,AI/ML Lead
+"Hunihan, Anne",Eswatini,ESW01,5.75,Associate Pool
+"Hunihan, Anne",Eswatini,ESW02,5.75,Associate Pool
+"Hunihan, Anne",Eswatini,ESW03,11.5,Associate Pool
+"Hunihan, Anne",Eswatini,ESW04,5.75,Associate Pool
+"Hunihan, Anne",Eswatini,ESW07,5.75,Associate Pool
+"Hunihan, Anne",Eswatini,ESW08,5.75,Associate Pool
+"Hunihan, Anne",Kenya,KEN01,37.0,Associate Pool
+"Hunihan, Anne",Kenya,KEN02,41.0,Associate Pool
+"Hunihan, Anne",Kenya,KEN03,1.0,Associate Pool
+"Hunihan, Anne",Kenya,KEN04,2.0,Associate Pool
+"Hunihan, Anne",Kenya,KEN06,14.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA01,2.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA02,2.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA03,2.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA04,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA05,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA06,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA07,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA08,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA09,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA10,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA11,3.0,Associate Pool
+"Hunihan, Anne",Nigeria,NRA12,3.0,Associate Pool
+"Hunihan, Anne",Sierra Leone,SIL01,2.0,Associate Pool
+"Hunihan, Anne",Sierra Leone,SIL02,2.0,Associate Pool
+"Hunihan, Anne",Sierra Leone,SIL03,1.0,Associate Pool
+"Judice, Nicole",CORE-EMR ECHIS,C2,10.0,Director Pool 
+"Judice, Nicole",CORE-EMR ECHIS,T1.8,2.0,Director Pool 
+"Judice, Nicole",CORE-Ebola,E1,11.0,Director Pool 
+"Judice, Nicole",CORE-Ebola,E2,12.0,Director Pool 
+"Judice, Nicole",CORE-Ebola,E3,5.0,Director Pool 
+"Judice, Nicole",CORE-Ebola,T1.4,14.0,Director Pool 
+"Judice, Nicole",CORE-HIC,C1a,10.087,Director Pool 
+"Judice, Nicole",CORE-HIC,C1b,12.329,Director Pool 
+"Judice, Nicole",CORE-Supply Chain,C5,14.277,Director Pool 
+"Judice, Nicole",CORE-Supply Chain,C6,31.596,Director Pool 
+"Judice, Nicole",CORE-Supply Chain,C7,16.238,Director Pool 
+"Judice, Nicole",CORE-Supply Chain,T1.6,7.005,Director Pool 
+"Judice, Nicole",Moldova,MOL01,6.0,Director Pool 
+"Judice, Nicole",Moldova,MOL02,6.0,Director Pool 
+"Judice, Nicole",Moldova,MOL03,6.0,Director Pool 
+"Judice, Nicole",Moldova,MOL04,7.0,Director Pool 
+"Judice, Nicole",Moldova,MOL05,7.0,Director Pool 
+"Kasera, George",CORE-Ebola,E1,3.0,Objective 3 Lead
+"Kasera, George",CORE-Ebola,E2,3.0,Objective 3 Lead
+"Kasera, George",CORE-Ebola,E3,2.0,Objective 3 Lead
+"Kasera, George",CORE-Ebola,T1.4,4.0,Objective 3 Lead
+"Loehr, Caitlin",Burundi,BUR01,7.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR02,7.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR03,7.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR04,7.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR05,8.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR06,8.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR07,8.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Burundi,BUR08,8.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-EMR ECHIS,C2,7.787,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-EMR ECHIS,T1.8,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Ebola,E1,6.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Ebola,E2,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Ebola,E3,4.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Ebola,T1.4,8.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-HIC,C1a,5.84,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-HIC,C1b,7.138,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Supply Chain,C5,8.266,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Supply Chain,C6,18.292,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Supply Chain,C7,9.401,Senior Tech Advisor - Digital
+"Loehr, Caitlin",CORE-Supply Chain,T1.6,4.056,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC01,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC03,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC04,10.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC05,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC06,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC07,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC08,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",DRC,DRC09,5.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD01,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD02,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD03,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD04,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD05,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD06,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD07,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD08,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD09,3.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD10,3.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Madagascar,MAD11,3.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG01,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG02,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG03,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG04,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG05,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG06,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG07,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG08,1.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG09,2.0,Senior Tech Advisor - Digital
+"Loehr, Caitlin",Niger,NIG10,2.0,Senior Tech Advisor - Digital
+"Lopez, Brenda",Ethiopia,ETH01,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH02,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH03,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH04,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH05,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH06,17.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH07,17.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH08,17.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH09,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH10,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH11,16.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH12,17.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH13,17.0,Associate Pool
+"Lopez, Brenda",Ethiopia,ETH14,17.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR01,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR02,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR03,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR04,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR05,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR06,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR07,8.0,Associate Pool
+"Mahoro, Virgile",Burundi,BUR08,9.0,Associate Pool
+"Mahoro, Virgile",CORE-Ebola,E1,20.0,Associate Pool
+"Mahoro, Virgile",CORE-Ebola,E2,20.0,Associate Pool
+"Mahoro, Virgile",CORE-Ebola,E3,20.0,Associate Pool
+"Mahoro, Virgile",CORE-Ebola,T1.4,20.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD01,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD02,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD03,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD04,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD05,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD06,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD07,8.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD08,9.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD09,9.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD10,9.0,Associate Pool
+"Mahoro, Virgile",Madagascar,MAD11,9.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG01,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG02,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG03,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG04,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG05,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG06,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG07,2.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG08,3.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG09,3.0,Associate Pool
+"Mahoro, Virgile",Niger,NIG10,3.0,Associate Pool
+"Manocher, Baktash",Botswana,BOT01,2.5,Associate Pool
+"Manocher, Baktash",Botswana,BOT02,2.5,Associate Pool
+"Manocher, Baktash",Botswana,BOT03,2.5,Associate Pool
+"Manocher, Baktash",Botswana,BOT04,2.5,Associate Pool
+"Manocher, Baktash",Botswana,BOT05,2.5,Associate Pool
+"Manocher, Baktash",Botswana,BOT06,2.5,Associate Pool
+"Manocher, Baktash",Lesotho,LES01,7.29,Associate Pool
+"Manocher, Baktash",Lesotho,LES02,7.29,Associate Pool
+"Manocher, Baktash",Lesotho,LES03,7.29,Associate Pool
+"Manocher, Baktash",Lesotho,LES04,7.29,Associate Pool
+"Manocher, Baktash",Lesotho,LES05,7.28,Associate Pool
+"Manocher, Baktash",Lesotho,LES06,7.28,Associate Pool
+"Manocher, Baktash",Lesotho,LES07,7.28,Associate Pool
+"Manocher, Baktash",Namibia,NAM01,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM02,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM03,13.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM04,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM05,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM06,11.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM07,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM08,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM09,12.0,Associate Pool
+"Manocher, Baktash",Namibia,NAM10,11.0,Associate Pool
+"Mathias, John",Botswana,BOT01,0.5,Operations Director
+"Mathias, John",Botswana,BOT02,0.5,Operations Director
+"Mathias, John",Botswana,BOT03,0.5,Operations Director
+"Mathias, John",Botswana,BOT04,0.5,Operations Director
+"Mathias, John",Botswana,BOT05,0.5,Operations Director
+"Mathias, John",Botswana,BOT06,0.5,Operations Director
+"Mathias, John",Burundi,BUR01,0.5,Operations Director
+"Mathias, John",Burundi,BUR02,0.5,Operations Director
+"Mathias, John",Burundi,BUR03,0.5,Operations Director
+"Mathias, John",Burundi,BUR04,0.5,Operations Director
+"Mathias, John",Burundi,BUR05,0.5,Operations Director
+"Mathias, John",Burundi,BUR06,0.5,Operations Director
+"Mathias, John",Burundi,BUR07,1.0,Operations Director
+"Mathias, John",Burundi,BUR08,1.0,Operations Director
+"Mathias, John",CORE G2G,T1.5,4.099,Operations Director
+"Mathias, John",CORE-EMR ECHIS,C2,7.378,Operations Director
+"Mathias, John",CORE-EMR ECHIS,T1.8,2.0,Operations Director
+"Mathias, John",CORE-Ebola,E1,6.0,Operations Director
+"Mathias, John",CORE-Ebola,E2,6.0,Operations Director
+"Mathias, John",CORE-Ebola,E3,3.0,Operations Director
+"Mathias, John",CORE-Ebola,T1.4,9.0,Operations Director
+"Mathias, John",CORE-HIC,C1a,5.534,Operations Director
+"Mathias, John",CORE-HIC,C1b,6.763,Operations Director
+"Mathias, John",CORE-Supply Chain,C5,9.104,Operations Director
+"Mathias, John",CORE-Supply Chain,C6,20.148,Operations Director
+"Mathias, John",CORE-Supply Chain,C7,10.355,Operations Director
+"Mathias, John",CORE-Supply Chain,T1.6,4.467,Operations Director
+"Mathias, John",DRC,DRC01,2.0,Operations Director
+"Mathias, John",DRC,DRC03,2.0,Operations Director
+"Mathias, John",DRC,DRC04,4.0,Operations Director
+"Mathias, John",DRC,DRC05,2.0,Operations Director
+"Mathias, John",DRC,DRC06,2.0,Operations Director
+"Mathias, John",DRC,DRC07,2.0,Operations Director
+"Mathias, John",DRC,DRC08,2.0,Operations Director
+"Mathias, John",DRC,DRC09,3.0,Operations Director
+"Mathias, John",El Salvador,ELS01,1.0,Operations Director
+"Mathias, John",El Salvador,ELS02,1.0,Operations Director
+"Mathias, John",El Salvador,ELS03,1.0,Operations Director
+"Mathias, John",El Salvador,ELS04,1.0,Operations Director
+"Mathias, John",El Salvador,ELS05,1.0,Operations Director
+"Mathias, John",Eswatini,ESW01,0.625,Operations Director
+"Mathias, John",Eswatini,ESW02,0.625,Operations Director
+"Mathias, John",Eswatini,ESW03,1.25,Operations Director
+"Mathias, John",Eswatini,ESW04,0.625,Operations Director
+"Mathias, John",Eswatini,ESW07,0.625,Operations Director
+"Mathias, John",Eswatini,ESW08,0.625,Operations Director
+"Mathias, John",Ethiopia,ETH01,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH02,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH03,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH04,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH05,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH06,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH07,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH08,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH09,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH10,4.0,Operations Director
+"Mathias, John",Ethiopia,ETH11,5.0,Operations Director
+"Mathias, John",Ethiopia,ETH12,5.0,Operations Director
+"Mathias, John",Ethiopia,ETH13,5.0,Operations Director
+"Mathias, John",Ethiopia,ETH14,5.0,Operations Director
+"Mathias, John",Honduras,HON01,1.5,Operations Director
+"Mathias, John",Honduras,HON02,1.5,Operations Director
+"Mathias, John",Honduras,HON03,1.5,Operations Director
+"Mathias, John",Honduras,HON04,1.5,Operations Director
+"Mathias, John",Kenya,KEN01,4.0,Operations Director
+"Mathias, John",Kenya,KEN02,4.0,Operations Director
+"Mathias, John",Kenya,KEN03,1.0,Operations Director
+"Mathias, John",Kenya,KEN06,2.0,Operations Director
+"Mathias, John",Lesotho,LES01,0.57,Operations Director
+"Mathias, John",Lesotho,LES02,0.57,Operations Director
+"Mathias, John",Lesotho,LES03,0.57,Operations Director
+"Mathias, John",Lesotho,LES04,0.57,Operations Director
+"Mathias, John",Lesotho,LES05,0.57,Operations Director
+"Mathias, John",Lesotho,LES06,0.57,Operations Director
+"Mathias, John",Lesotho,LES07,0.58,Operations Director
+"Mathias, John",Madagascar,MAD01,0.5,Operations Director
+"Mathias, John",Madagascar,MAD02,0.5,Operations Director
+"Mathias, John",Madagascar,MAD03,0.5,Operations Director
+"Mathias, John",Madagascar,MAD04,0.5,Operations Director
+"Mathias, John",Madagascar,MAD05,0.5,Operations Director
+"Mathias, John",Madagascar,MAD06,0.5,Operations Director
+"Mathias, John",Madagascar,MAD07,0.5,Operations Director
+"Mathias, John",Madagascar,MAD08,0.5,Operations Director
+"Mathias, John",Madagascar,MAD09,0.5,Operations Director
+"Mathias, John",Madagascar,MAD10,0.5,Operations Director
+"Mathias, John",Madagascar,MAD11,1.0,Operations Director
+"Mathias, John",Moldova,MOL01,0.5,Operations Director
+"Mathias, John",Moldova,MOL03,0.5,Operations Director
+"Mathias, John",Namibia,NAM01,1.0,Operations Director
+"Mathias, John",Namibia,NAM02,1.0,Operations Director
+"Mathias, John",Namibia,NAM03,0.5,Operations Director
+"Mathias, John",Namibia,NAM04,0.5,Operations Director
+"Mathias, John",Namibia,NAM05,1.0,Operations Director
+"Mathias, John",Namibia,NAM06,1.0,Operations Director
+"Mathias, John",Namibia,NAM07,1.0,Operations Director
+"Mathias, John",Namibia,NAM08,1.0,Operations Director
+"Mathias, John",Namibia,NAM09,1.0,Operations Director
+"Mathias, John",Namibia,NAM10,1.0,Operations Director
+"Mathias, John",Niger,NIG03,0.56,Operations Director
+"Mathias, John",Niger,NIG05,0.84,Operations Director
+"Mathias, John",Niger,NIG06,0.17,Operations Director
+"Mathias, John",Niger,NIG07,0.51,Operations Director
+"Mathias, John",Niger,NIG09,0.7,Operations Director
+"Mathias, John",Niger,NIG10,0.22,Operations Director
+"Mathias, John",Nigeria,NRA01,0.5,Operations Director
+"Mathias, John",Nigeria,NRA03,0.5,Operations Director
+"Mathias, John",Nigeria,NRA05,0.5,Operations Director
+"Mathias, John",Nigeria,NRA07,0.5,Operations Director
+"Mavyuva, Boniface",Botswana,BOT01,0.34,Dig Infrastructure Lead
+"Mavyuva, Boniface",Botswana,BOT02,0.34,Dig Infrastructure Lead
+"Mavyuva, Boniface",Botswana,BOT03,0.33,Dig Infrastructure Lead
+"Mavyuva, Boniface",Botswana,BOT04,0.33,Dig Infrastructure Lead
+"Mavyuva, Boniface",Botswana,BOT05,0.33,Dig Infrastructure Lead
+"Mavyuva, Boniface",Botswana,BOT06,0.33,Dig Infrastructure Lead
+"Mavyuva, Boniface",Burundi,BUR01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Burundi,BUR03,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Burundi,BUR05,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Burundi,BUR07,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-EMR ECHIS,C2,10.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-EMR ECHIS,T1.8,5.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-HIC,C1a,18.909,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-HIC,C1b,23.111,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-Supply Chain,C5,26.763,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-Supply Chain,C6,59.228,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-Supply Chain,C7,30.44,Dig Infrastructure Lead
+"Mavyuva, Boniface",CORE-Supply Chain,T1.6,13.131,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC03,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC04,1.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC05,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC06,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC07,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC08,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",DRC,DRC09,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",El Salvador,ELS01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",El Salvador,ELS02,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",El Salvador,ELS03,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",El Salvador,ELS04,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW01,0.25,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW02,0.25,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW03,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW04,0.25,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW07,0.25,Dig Infrastructure Lead
+"Mavyuva, Boniface",Eswatini,ESW08,0.25,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH01,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH02,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH03,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH04,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH05,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH06,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH07,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH08,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH09,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH10,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH11,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH12,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH13,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Ethiopia,ETH14,2.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Honduras,HON01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Honduras,HON02,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Honduras,HON03,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Honduras,HON04,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Kenya,KEN01,1.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Kenya,KEN02,2.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Lesotho,LES01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Lesotho,LES02,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Madagascar,MAD01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Madagascar,MAD03,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Madagascar,MAD05,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Namibia,NAM03,1.0,Dig Infrastructure Lead
+"Mavyuva, Boniface",Namibia,NAM04,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Namibia,NAM05,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Namibia,NAM09,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Namibia,NAM10,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Niger,NIG01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Niger,NIG04,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Nigeria,NRA01,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Nigeria,NRA04,0.5,Dig Infrastructure Lead
+"Mavyuva, Boniface",Sierra Leone,SIL01,1.0,Dig Infrastructure Lead
+"Mawandia, Shreshth",Botswana,BOT01,0.5,KP - Project Director
+"Mawandia, Shreshth",Botswana,BOT02,0.5,KP - Project Director
+"Mawandia, Shreshth",Botswana,BOT03,0.5,KP - Project Director
+"Mawandia, Shreshth",Botswana,BOT04,0.5,KP - Project Director
+"Mawandia, Shreshth",Botswana,BOT05,0.5,KP - Project Director
+"Mawandia, Shreshth",Botswana,BOT06,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR01,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR02,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR03,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR04,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR05,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR06,0.5,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR07,1.0,KP - Project Director
+"Mawandia, Shreshth",Burundi,BUR08,1.0,KP - Project Director
+"Mawandia, Shreshth",CORE-EMR ECHIS,C2,2.0,KP - Project Director
+"Mawandia, Shreshth",CORE-EMR ECHIS,T1.8,2.0,KP - Project Director
+"Mawandia, Shreshth",CORE-Ebola,E1,7.0,KP - Project Director
+"Mawandia, Shreshth",CORE-Ebola,E2,6.0,KP - Project Director
+"Mawandia, Shreshth",CORE-Ebola,E3,1.0,KP - Project Director
+"Mawandia, Shreshth",CORE-Ebola,T1.4,11.0,KP - Project Director
+"Mawandia, Shreshth",CORE-HIC,C1a,6.106,KP - Project Director
+"Mawandia, Shreshth",CORE-HIC,C1b,7.462,KP - Project Director
+"Mawandia, Shreshth",CORE-Supply Chain,C5,16.028,KP - Project Director
+"Mawandia, Shreshth",CORE-Supply Chain,C6,35.471,KP - Project Director
+"Mawandia, Shreshth",CORE-Supply Chain,C7,18.23,KP - Project Director
+"Mawandia, Shreshth",CORE-Supply Chain,T1.6,7.864,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC01,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC03,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC04,4.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC05,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC06,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC07,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC08,2.0,KP - Project Director
+"Mawandia, Shreshth",DRC,DRC09,3.0,KP - Project Director
+"Mawandia, Shreshth",El Salvador,ELS01,1.0,KP - Project Director
+"Mawandia, Shreshth",El Salvador,ELS02,1.0,KP - Project Director
+"Mawandia, Shreshth",El Salvador,ELS03,1.0,KP - Project Director
+"Mawandia, Shreshth",El Salvador,ELS04,1.0,KP - Project Director
+"Mawandia, Shreshth",El Salvador,ELS05,1.0,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW01,0.625,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW02,0.625,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW03,1.25,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW04,0.625,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW07,0.625,KP - Project Director
+"Mawandia, Shreshth",Eswatini,ESW08,0.625,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH01,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH02,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH03,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH04,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH05,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH06,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH07,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH08,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH09,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH10,4.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH11,5.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH12,5.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH13,5.0,KP - Project Director
+"Mawandia, Shreshth",Ethiopia,ETH14,5.0,KP - Project Director
+"Mawandia, Shreshth",Honduras,HON01,1.5,KP - Project Director
+"Mawandia, Shreshth",Honduras,HON02,1.5,KP - Project Director
+"Mawandia, Shreshth",Honduras,HON03,1.5,KP - Project Director
+"Mawandia, Shreshth",Honduras,HON04,1.5,KP - Project Director
+"Mawandia, Shreshth",Kenya,KEN01,6.0,KP - Project Director
+"Mawandia, Shreshth",Kenya,KEN02,5.0,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES01,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES02,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES03,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES04,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES05,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES06,0.57,KP - Project Director
+"Mawandia, Shreshth",Lesotho,LES07,0.58,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD01,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD02,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD03,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD04,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD05,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD06,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD07,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD08,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD09,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD10,0.5,KP - Project Director
+"Mawandia, Shreshth",Madagascar,MAD11,1.0,KP - Project Director
+"Mawandia, Shreshth",Moldova,MOL01,0.5,KP - Project Director
+"Mawandia, Shreshth",Moldova,MOL03,0.5,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM01,2.0,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM02,1.5,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM03,0.5,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM04,0.5,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM05,1.0,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM06,1.0,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM07,2.0,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM09,1.0,KP - Project Director
+"Mawandia, Shreshth",Namibia,NAM10,0.5,KP - Project Director
+"Mensah, Margaret",Botswana,BOT01,0.5,KP - Finance Director
+"Mensah, Margaret",Botswana,BOT02,0.5,KP - Finance Director
+"Mensah, Margaret",Botswana,BOT03,0.5,KP - Finance Director
+"Mensah, Margaret",Botswana,BOT04,0.5,KP - Finance Director
+"Mensah, Margaret",Botswana,BOT05,0.5,KP - Finance Director
+"Mensah, Margaret",Botswana,BOT06,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR01,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR02,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR03,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR04,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR05,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR06,0.5,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR07,1.0,KP - Finance Director
+"Mensah, Margaret",Burundi,BUR08,1.0,KP - Finance Director
+"Mensah, Margaret",CORE G2G,T1.5,4.237,KP - Finance Director
+"Mensah, Margaret",CORE-EMR ECHIS,C2,2.0,KP - Finance Director
+"Mensah, Margaret",CORE-EMR ECHIS,T1.8,2.0,KP - Finance Director
+"Mensah, Margaret",CORE-Ebola,E1,7.0,KP - Finance Director
+"Mensah, Margaret",CORE-Ebola,E2,6.0,KP - Finance Director
+"Mensah, Margaret",CORE-Ebola,E3,1.0,KP - Finance Director
+"Mensah, Margaret",CORE-Ebola,T1.4,11.0,KP - Finance Director
+"Mensah, Margaret",CORE-HIC,C1a,4.524,KP - Finance Director
+"Mensah, Margaret",CORE-HIC,C1b,3.404,KP - Finance Director
+"Mensah, Margaret",CORE-Supply Chain,C5,11.353,KP - Finance Director
+"Mensah, Margaret",CORE-Supply Chain,C6,26.466,KP - Finance Director
+"Mensah, Margaret",CORE-Supply Chain,C7,13.078,KP - Finance Director
+"Mensah, Margaret",CORE-Supply Chain,T1.6,5.431,KP - Finance Director
+"Mensah, Margaret",DRC,DRC01,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC03,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC04,4.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC05,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC06,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC07,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC08,2.0,KP - Finance Director
+"Mensah, Margaret",DRC,DRC09,3.0,KP - Finance Director
+"Mensah, Margaret",El Salvador,ELS01,1.0,KP - Finance Director
+"Mensah, Margaret",El Salvador,ELS02,1.0,KP - Finance Director
+"Mensah, Margaret",El Salvador,ELS03,1.0,KP - Finance Director
+"Mensah, Margaret",El Salvador,ELS04,1.0,KP - Finance Director
+"Mensah, Margaret",El Salvador,ELS05,1.0,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW01,0.625,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW02,0.625,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW03,1.25,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW04,0.625,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW07,0.625,KP - Finance Director
+"Mensah, Margaret",Eswatini,ESW08,0.625,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH01,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH02,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH03,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH04,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH05,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH06,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH07,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH08,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH09,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH10,4.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH11,5.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH12,5.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH13,5.0,KP - Finance Director
+"Mensah, Margaret",Ethiopia,ETH14,5.0,KP - Finance Director
+"Mensah, Margaret",Honduras,HON01,1.5,KP - Finance Director
+"Mensah, Margaret",Honduras,HON02,1.5,KP - Finance Director
+"Mensah, Margaret",Honduras,HON03,1.5,KP - Finance Director
+"Mensah, Margaret",Honduras,HON04,1.5,KP - Finance Director
+"Mensah, Margaret",Kenya,KEN01,6.0,KP - Finance Director
+"Mensah, Margaret",Kenya,KEN02,5.0,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES01,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES02,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES03,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES04,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES05,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES06,0.57,KP - Finance Director
+"Mensah, Margaret",Lesotho,LES07,0.58,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD01,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD02,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD03,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD04,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD05,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD06,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD07,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD08,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD09,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD10,0.5,KP - Finance Director
+"Mensah, Margaret",Madagascar,MAD11,1.0,KP - Finance Director
+"Mensah, Margaret",Moldova,MOL01,0.5,KP - Finance Director
+"Mensah, Margaret",Moldova,MOL03,0.5,KP - Finance Director
+"Mensah, Margaret",Namibia,NAM01,1.0,KP - Finance Director
+"Mensah, Margaret",Namibia,NAM04,0.5,KP - Finance Director
+"Mensah, Margaret",Namibia,NAM06,1.0,KP - Finance Director
+"Mensah, Margaret",Namibia,NAM07,5.0,KP - Finance Director
+"Mensah, Margaret",Namibia,NAM08,1.5,KP - Finance Director
+"Miller, Brynn",Botswana,BOT01,2.5,Operations Manager level - 16
+"Miller, Brynn",Botswana,BOT02,2.5,Operations Manager level - 16
+"Miller, Brynn",Botswana,BOT03,2.5,Operations Manager level - 16
+"Miller, Brynn",Botswana,BOT04,2.5,Operations Manager level - 16
+"Miller, Brynn",Botswana,BOT05,2.5,Operations Manager level - 16
+"Miller, Brynn",Botswana,BOT06,2.5,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES01,6.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES02,0.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES03,6.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES04,6.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES05,12.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES06,6.57,Operations Manager level - 16
+"Miller, Brynn",Lesotho,LES07,6.58,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM01,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM02,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM03,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM04,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM05,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM06,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM07,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM08,6.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM09,5.0,Operations Manager level - 16
+"Miller, Brynn",Namibia,NAM10,5.0,Operations Manager level - 16
+"Miranda Rondon de Ro, Ing",Botswana,BOT01,0.67,M&E and Learning
+"Miranda Rondon de Ro, Ing",Botswana,BOT02,0.67,M&E and Learning
+"Miranda Rondon de Ro, Ing",Botswana,BOT03,0.67,M&E and Learning
+"Miranda Rondon de Ro, Ing",Botswana,BOT04,0.67,M&E and Learning
+"Miranda Rondon de Ro, Ing",Botswana,BOT05,0.66,M&E and Learning
+"Miranda Rondon de Ro, Ing",Botswana,BOT06,0.66,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR01,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR02,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR03,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR04,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR05,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR06,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR07,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Burundi,BUR08,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-EMR ECHIS,C2,7.787,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-EMR ECHIS,T1.8,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Ebola,E1,6.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Ebola,E2,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Ebola,E3,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Ebola,T1.4,8.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-HIC,C1a,5.84,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-HIC,C1b,7.138,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Supply Chain,C5,8.266,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Supply Chain,C6,18.292,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Supply Chain,C7,9.401,M&E and Learning
+"Miranda Rondon de Ro, Ing",CORE-Supply Chain,T1.6,4.056,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC01,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC03,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC04,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC05,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC06,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC07,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC08,2.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",DRC,DRC09,3.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",El Salvador,ELS01,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",El Salvador,ELS02,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",El Salvador,ELS03,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",El Salvador,ELS04,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",El Salvador,ELS05,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW01,0.625,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW02,0.625,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW03,1.25,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW04,0.625,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW07,0.625,M&E and Learning
+"Miranda Rondon de Ro, Ing",Eswatini,ESW08,0.625,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH01,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH02,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH03,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH04,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH05,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH06,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH07,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH08,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH09,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH10,4.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH11,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH12,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH13,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Ethiopia,ETH14,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Honduras,HON01,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Honduras,HON02,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Honduras,HON03,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Honduras,HON04,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Kenya,KEN01,5.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Kenya,KEN02,6.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES01,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES02,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES03,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES04,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES05,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES06,0.57,M&E and Learning
+"Miranda Rondon de Ro, Ing",Lesotho,LES07,0.58,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD01,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD02,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD03,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD04,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD05,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD06,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD07,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD08,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD09,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD10,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Madagascar,MAD11,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM02,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM03,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM04,1.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM05,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM06,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM08,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM09,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Namibia,NAM10,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG01,0.24,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG02,0.33,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG03,0.23,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG04,0.16,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG05,0.44,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG06,0.17,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG07,0.4,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG08,0.11,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG09,0.7,M&E and Learning
+"Miranda Rondon de Ro, Ing",Niger,NIG10,0.22,M&E and Learning
+"Miranda Rondon de Ro, Ing",Nigeria,NRA01,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Nigeria,NRA03,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Nigeria,NRA05,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Nigeria,NRA07,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Sierra Leone,SIL01,0.5,M&E and Learning
+"Miranda Rondon de Ro, Ing",Sierra Leone,SIL02,1.0,M&E and Learning
+"Miranda Rondon de Ro, Ing",Sierra Leone,SIL03,0.5,M&E and Learning
+"Misomali, Mark",Botswana,BOT01,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Botswana,BOT02,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Botswana,BOT03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Botswana,BOT04,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Botswana,BOT05,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Botswana,BOT06,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR01,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR02,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR04,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR05,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR06,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR07,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Burundi,BUR08,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE G2G,T1.5,4.099,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-EMR ECHIS,C2,7.378,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-EMR ECHIS,T1.8,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Ebola,E1,6.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Ebola,E2,9.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Ebola,E3,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Ebola,T1.4,8.0,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-HIC,C1a,5.534,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-HIC,C1b,6.763,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Supply Chain,C5,9.104,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Supply Chain,C6,20.148,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Supply Chain,C7,10.355,Operations Sr Finance Manager   
+"Misomali, Mark",CORE-Supply Chain,T1.6,4.467,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC01,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC03,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC04,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC05,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC06,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC07,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC08,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",DRC,DRC09,3.0,Operations Sr Finance Manager   
+"Misomali, Mark",El Salvador,ELS01,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",El Salvador,ELS02,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",El Salvador,ELS03,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",El Salvador,ELS04,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",El Salvador,ELS05,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW01,0.625,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW02,0.625,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW03,1.25,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW04,0.625,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW07,0.625,Operations Sr Finance Manager   
+"Misomali, Mark",Eswatini,ESW08,0.625,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH01,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH02,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH03,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH04,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH05,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH06,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH07,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH08,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH09,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH10,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH11,5.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH12,5.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH13,5.0,Operations Sr Finance Manager   
+"Misomali, Mark",Ethiopia,ETH14,5.0,Operations Sr Finance Manager   
+"Misomali, Mark",Honduras,HON01,1.5,Operations Sr Finance Manager   
+"Misomali, Mark",Honduras,HON02,1.5,Operations Sr Finance Manager   
+"Misomali, Mark",Honduras,HON03,1.5,Operations Sr Finance Manager   
+"Misomali, Mark",Honduras,HON04,1.5,Operations Sr Finance Manager   
+"Misomali, Mark",Kenya,KEN01,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Kenya,KEN02,4.0,Operations Sr Finance Manager   
+"Misomali, Mark",Kenya,KEN03,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Kenya,KEN06,2.0,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES01,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES02,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES03,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES04,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES05,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES06,0.57,Operations Sr Finance Manager   
+"Misomali, Mark",Lesotho,LES07,0.58,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD01,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD02,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD04,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD05,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD06,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD07,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD08,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD09,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD10,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Madagascar,MAD11,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Moldova,MOL01,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Moldova,MOL03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM01,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM02,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM04,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM05,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM06,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM07,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM08,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM09,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Namibia,NAM10,1.0,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG02,0.33,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG03,0.23,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG05,0.84,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG06,0.17,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG07,0.51,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG09,0.7,Operations Sr Finance Manager   
+"Misomali, Mark",Niger,NIG10,0.22,Operations Sr Finance Manager   
+"Misomali, Mark",Nigeria,NRA01,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Nigeria,NRA03,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Nigeria,NRA05,0.5,Operations Sr Finance Manager   
+"Misomali, Mark",Nigeria,NRA07,0.5,Operations Sr Finance Manager   
+"Nabeel, Shayan",CORE G2G,T1.5,6.309,Operations Manager level - 16
+"Nabeel, Shayan",CORE-EMR ECHIS,C2,10.0,Operations Manager level - 16
+"Nabeel, Shayan",CORE-EMR ECHIS,T1.8,3.0,Operations Manager level - 16
+"Nabeel, Shayan",CORE-HIC,C1a,8.517,Operations Manager level - 16
+"Nabeel, Shayan",CORE-HIC,C1b,10.41,Operations Manager level - 16
+"Nabeel, Shayan",CORE-Supply Chain,C5,12.055,Operations Manager level - 16
+"Nabeel, Shayan",CORE-Supply Chain,C6,26.679,Operations Manager level - 16
+"Nabeel, Shayan",CORE-Supply Chain,C7,13.711,Operations Manager level - 16
+"Nabeel, Shayan",CORE-Supply Chain,T1.6,5.915,Operations Manager level - 16
+"Nabeel, Shayan",Kenya,KEN01,23.0,Operations Manager level - 16
+"Nabeel, Shayan",Kenya,KEN02,30.0,Operations Manager level - 16
+"Nabeel, Shayan",Kenya,KEN03,11.0,Operations Manager level - 16
+"Nabeel, Shayan",Kenya,KEN06,12.0,Operations Manager level - 16
+"Nabeel, Shayan",Kenya,KEN07,4.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA01,2.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA02,2.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA03,2.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA04,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA05,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA06,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA07,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA08,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA09,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA10,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA11,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Nigeria,NRA12,3.0,Operations Manager level - 16
+"Nabeel, Shayan",Sierra Leone,SIL01,2.0,Operations Manager level - 16
+"Nabeel, Shayan",Sierra Leone,SIL02,2.0,Operations Manager level - 16
+"Nabeel, Shayan",Sierra Leone,SIL03,1.0,Operations Manager level - 16
+"Nigussie, Netsanet",Botswana,BOT01,0.5,KP - Technical Director
+"Nigussie, Netsanet",Botswana,BOT02,0.5,KP - Technical Director
+"Nigussie, Netsanet",Botswana,BOT03,0.5,KP - Technical Director
+"Nigussie, Netsanet",Botswana,BOT04,0.5,KP - Technical Director
+"Nigussie, Netsanet",Botswana,BOT05,0.5,KP - Technical Director
+"Nigussie, Netsanet",Botswana,BOT06,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR01,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR02,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR03,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR04,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR05,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR06,0.5,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR07,1.0,KP - Technical Director
+"Nigussie, Netsanet",Burundi,BUR08,1.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-EMR ECHIS,C2,2.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-EMR ECHIS,T1.8,2.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-Ebola,E1,7.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-Ebola,E2,6.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-Ebola,E3,1.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-Ebola,T1.4,11.0,KP - Technical Director
+"Nigussie, Netsanet",CORE-HIC,C1a,6.106,KP - Technical Director
+"Nigussie, Netsanet",CORE-HIC,C1b,7.462,KP - Technical Director
+"Nigussie, Netsanet",CORE-Supply Chain,C5,16.028,KP - Technical Director
+"Nigussie, Netsanet",CORE-Supply Chain,C6,35.471,KP - Technical Director
+"Nigussie, Netsanet",CORE-Supply Chain,C7,18.23,KP - Technical Director
+"Nigussie, Netsanet",CORE-Supply Chain,T1.6,7.864,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC01,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC03,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC04,4.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC05,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC06,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC07,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC08,2.0,KP - Technical Director
+"Nigussie, Netsanet",DRC,DRC09,3.0,KP - Technical Director
+"Nigussie, Netsanet",El Salvador,ELS01,1.0,KP - Technical Director
+"Nigussie, Netsanet",El Salvador,ELS02,1.0,KP - Technical Director
+"Nigussie, Netsanet",El Salvador,ELS03,1.0,KP - Technical Director
+"Nigussie, Netsanet",El Salvador,ELS04,1.0,KP - Technical Director
+"Nigussie, Netsanet",El Salvador,ELS05,1.0,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW01,0.625,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW02,0.625,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW03,1.25,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW04,0.625,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW07,0.625,KP - Technical Director
+"Nigussie, Netsanet",Eswatini,ESW08,0.625,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH01,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH02,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH03,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH04,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH05,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH06,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH07,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH08,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH09,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH10,4.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH11,5.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH12,5.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH13,5.0,KP - Technical Director
+"Nigussie, Netsanet",Ethiopia,ETH14,5.0,KP - Technical Director
+"Nigussie, Netsanet",Honduras,HON01,1.5,KP - Technical Director
+"Nigussie, Netsanet",Honduras,HON02,1.5,KP - Technical Director
+"Nigussie, Netsanet",Honduras,HON03,1.5,KP - Technical Director
+"Nigussie, Netsanet",Honduras,HON04,1.5,KP - Technical Director
+"Nigussie, Netsanet",Kenya,KEN01,6.0,KP - Technical Director
+"Nigussie, Netsanet",Kenya,KEN02,5.0,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES01,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES02,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES03,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES04,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES05,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES06,0.57,KP - Technical Director
+"Nigussie, Netsanet",Lesotho,LES07,0.58,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD01,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD02,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD03,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD04,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD05,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD06,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD07,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD08,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD09,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD10,0.5,KP - Technical Director
+"Nigussie, Netsanet",Madagascar,MAD11,1.0,KP - Technical Director
+"Nigussie, Netsanet",Moldova,MOL01,0.5,KP - Technical Director
+"Nigussie, Netsanet",Moldova,MOL03,0.5,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM01,2.0,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM03,0.5,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM04,0.5,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM05,1.0,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM06,1.0,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM07,2.0,KP - Technical Director
+"Nigussie, Netsanet",Namibia,NAM09,1.0,KP - Technical Director
+"Noorzai, Mahmood",Botswana,BOT01,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Botswana,BOT02,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Botswana,BOT03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Botswana,BOT04,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Botswana,BOT05,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Botswana,BOT06,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR01,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR02,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR04,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR05,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR06,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR07,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Burundi,BUR08,1.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE G2G,T1.5,4.099,Operations Finance Associate
+"Noorzai, Mahmood",CORE-EMR ECHIS,C2,7.378,Operations Finance Associate
+"Noorzai, Mahmood",CORE-EMR ECHIS,T1.8,2.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Ebola,E1,6.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Ebola,E2,9.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Ebola,E3,1.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Ebola,T1.4,8.0,Operations Finance Associate
+"Noorzai, Mahmood",CORE-HIC,C1a,5.534,Operations Finance Associate
+"Noorzai, Mahmood",CORE-HIC,C1b,6.763,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Supply Chain,C5,9.104,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Supply Chain,C6,20.148,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Supply Chain,C7,10.355,Operations Finance Associate
+"Noorzai, Mahmood",CORE-Supply Chain,T1.6,4.467,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC01,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC03,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC04,4.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC05,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC06,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC07,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC08,2.0,Operations Finance Associate
+"Noorzai, Mahmood",DRC,DRC09,3.0,Operations Finance Associate
+"Noorzai, Mahmood",El Salvador,ELS01,1.0,Operations Finance Associate
+"Noorzai, Mahmood",El Salvador,ELS02,1.0,Operations Finance Associate
+"Noorzai, Mahmood",El Salvador,ELS03,1.0,Operations Finance Associate
+"Noorzai, Mahmood",El Salvador,ELS04,1.0,Operations Finance Associate
+"Noorzai, Mahmood",El Salvador,ELS05,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW01,0.625,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW02,0.625,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW03,1.25,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW04,0.625,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW07,0.625,Operations Finance Associate
+"Noorzai, Mahmood",Eswatini,ESW08,0.625,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH01,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH02,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH03,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH04,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH05,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH06,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH07,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH08,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH09,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH10,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH11,5.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH12,5.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH13,5.0,Operations Finance Associate
+"Noorzai, Mahmood",Ethiopia,ETH14,5.0,Operations Finance Associate
+"Noorzai, Mahmood",Honduras,HON01,1.5,Operations Finance Associate
+"Noorzai, Mahmood",Honduras,HON02,1.5,Operations Finance Associate
+"Noorzai, Mahmood",Honduras,HON03,1.5,Operations Finance Associate
+"Noorzai, Mahmood",Honduras,HON04,1.5,Operations Finance Associate
+"Noorzai, Mahmood",Kenya,KEN01,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Kenya,KEN02,4.0,Operations Finance Associate
+"Noorzai, Mahmood",Kenya,KEN03,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Kenya,KEN06,2.0,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES01,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES02,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES03,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES04,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES05,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES06,0.57,Operations Finance Associate
+"Noorzai, Mahmood",Lesotho,LES07,0.58,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD01,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD02,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD04,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD05,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD06,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD07,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD08,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD09,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD10,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Madagascar,MAD11,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Moldova,MOL01,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Moldova,MOL03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM01,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM02,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM04,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM05,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM06,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM07,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM08,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM09,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Namibia,NAM10,1.0,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG02,0.33,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG03,0.23,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG05,0.84,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG06,0.17,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG07,0.51,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG09,0.7,Operations Finance Associate
+"Noorzai, Mahmood",Niger,NIG10,0.22,Operations Finance Associate
+"Noorzai, Mahmood",Nigeria,NRA01,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Nigeria,NRA03,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Nigeria,NRA05,0.5,Operations Finance Associate
+"Noorzai, Mahmood",Nigeria,NRA07,0.5,Operations Finance Associate
+"Odhiambo, Jacob",CORE-Ebola,E1,7.0,Objective 1 Lead
+"Odhiambo, Jacob",CORE-Ebola,E2,6.0,Objective 1 Lead
+"Odhiambo, Jacob",CORE-Ebola,E3,1.0,Objective 1 Lead
+"Odhiambo, Jacob",CORE-Ebola,T1.4,11.0,Objective 1 Lead
+"Ogana, Nelson",Burundi,BUR01,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR02,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR03,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR04,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR05,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR06,0.5,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR07,1.0,Infosec Co-Lead
+"Ogana, Nelson",Burundi,BUR08,1.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH01,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH02,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH03,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH04,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH05,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH06,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH07,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH08,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH09,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH10,4.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH11,5.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH12,5.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH13,5.0,Infosec Co-Lead
+"Ogana, Nelson",Ethiopia,ETH14,5.0,Infosec Co-Lead
+"Ogana, Nelson",Kenya,KEN01,5.0,"Infosec Co-Lead - Ogana, Nelson"
+"Ogana, Nelson",Kenya,KEN02,6.0,"Infosec Co-Lead - Ogana, Nelson"
+"Ogana, Nelson",Madagascar,MAD01,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD02,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD03,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD04,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD05,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD06,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD07,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD08,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD09,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD10,0.5,Infosec Co-Lead
+"Ogana, Nelson",Madagascar,MAD11,1.0,Infosec Co-Lead
+"Parker, Christine",Ethiopia,ETH01,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH02,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH03,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH04,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH05,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH06,17.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH07,17.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH08,17.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH09,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH10,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH11,16.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH12,17.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH13,17.0,Operations Senior Manager Pool-17
+"Parker, Christine",Ethiopia,ETH14,17.0,Operations Senior Manager Pool-17
+"Saint Germain, Maya",CORE-EMR ECHIS,C2,20.352,Program Manager
+"Saint Germain, Maya",CORE-EMR ECHIS,T1.8,5.0,Program Manager
+"Saint Germain, Maya",CORE-Ebola,E1,21.0,Program Manager
+"Saint Germain, Maya",CORE-Ebola,E2,20.0,Program Manager
+"Saint Germain, Maya",CORE-Ebola,E3,5.0,Program Manager
+"Saint Germain, Maya",CORE-Ebola,T1.4,15.0,Program Manager
+"Saint Germain, Maya",CORE-HIC,C1a,15.264,Program Manager
+"Saint Germain, Maya",CORE-HIC,C1b,18.656,Program Manager
+"Saint Germain, Maya",CORE-Supply Chain,C5,21.603,Program Manager
+"Saint Germain, Maya",CORE-Supply Chain,C6,47.81,Program Manager
+"Saint Germain, Maya",CORE-Supply Chain,C7,24.571,Program Manager
+"Saint Germain, Maya",CORE-Supply Chain,T1.6,10.6,Program Manager
+"Sakaguchi, Kevin",Botswana,BOT01,0.67,M&E and Learning
+"Sakaguchi, Kevin",Botswana,BOT02,0.67,M&E and Learning
+"Sakaguchi, Kevin",Botswana,BOT03,1.33,M&E and Learning
+"Sakaguchi, Kevin",Botswana,BOT04,0.67,M&E and Learning
+"Sakaguchi, Kevin",Botswana,BOT05,0.66,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR01,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR02,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR03,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR04,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR05,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR06,0.5,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR07,1.0,M&E and Learning
+"Sakaguchi, Kevin",Burundi,BUR08,1.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-EMR ECHIS,C2,7.787,M&E and Learning
+"Sakaguchi, Kevin",CORE-EMR ECHIS,T1.8,2.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-Ebola,E1,6.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-Ebola,E2,5.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-Ebola,E3,4.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-Ebola,T1.4,8.0,M&E and Learning
+"Sakaguchi, Kevin",CORE-HIC,C1a,5.84,M&E and Learning
+"Sakaguchi, Kevin",CORE-HIC,C1b,7.138,M&E and Learning
+"Sakaguchi, Kevin",CORE-Supply Chain,C5,8.266,M&E and Learning
+"Sakaguchi, Kevin",CORE-Supply Chain,C6,18.292,M&E and Learning
+"Sakaguchi, Kevin",CORE-Supply Chain,C7,9.401,M&E and Learning
+"Sakaguchi, Kevin",CORE-Supply Chain,T1.6,4.056,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC01,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC03,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC04,4.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC05,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC06,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC07,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC08,2.0,M&E and Learning
+"Sakaguchi, Kevin",DRC,DRC09,3.0,M&E and Learning
+"Sakaguchi, Kevin",El Salvador,ELS01,1.0,M&E and Learning
+"Sakaguchi, Kevin",El Salvador,ELS02,1.0,M&E and Learning
+"Sakaguchi, Kevin",El Salvador,ELS03,1.0,M&E and Learning
+"Sakaguchi, Kevin",El Salvador,ELS04,1.0,M&E and Learning
+"Sakaguchi, Kevin",El Salvador,ELS05,1.0,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW01,0.625,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW02,0.625,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW03,1.25,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW04,0.625,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW07,0.625,M&E and Learning
+"Sakaguchi, Kevin",Eswatini,ESW08,0.625,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH01,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH02,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH03,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH04,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH05,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH06,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH07,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH08,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH09,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH10,4.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH11,5.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH12,5.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH13,5.0,M&E and Learning
+"Sakaguchi, Kevin",Ethiopia,ETH14,5.0,M&E and Learning
+"Sakaguchi, Kevin",Honduras,HON01,1.5,M&E and Learning
+"Sakaguchi, Kevin",Honduras,HON02,1.5,M&E and Learning
+"Sakaguchi, Kevin",Honduras,HON03,1.5,M&E and Learning
+"Sakaguchi, Kevin",Honduras,HON04,1.5,M&E and Learning
+"Sakaguchi, Kevin",Kenya,KEN01,5.0,M&E and Learning
+"Sakaguchi, Kevin",Kenya,KEN02,6.0,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES01,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES02,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES03,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES04,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES05,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES06,0.57,M&E and Learning
+"Sakaguchi, Kevin",Lesotho,LES07,0.58,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD01,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD02,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD03,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD04,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD05,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD06,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD07,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD08,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD09,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD10,0.5,M&E and Learning
+"Sakaguchi, Kevin",Madagascar,MAD11,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM02,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM03,1.5,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM04,1.5,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM05,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM06,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM08,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM09,1.0,M&E and Learning
+"Sakaguchi, Kevin",Namibia,NAM10,1.0,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG01,0.24,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG02,0.33,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG03,0.23,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG04,0.16,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG05,0.44,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG06,0.17,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG07,0.4,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG08,0.11,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG09,0.7,M&E and Learning
+"Sakaguchi, Kevin",Niger,NIG10,0.22,M&E and Learning
+"Sakaguchi, Kevin",Nigeria,NRA01,0.5,M&E and Learning
+"Sakaguchi, Kevin",Nigeria,NRA03,0.5,M&E and Learning
+"Sakaguchi, Kevin",Nigeria,NRA05,0.5,M&E and Learning
+"Sakaguchi, Kevin",Nigeria,NRA07,0.5,M&E and Learning
+"Sakaguchi, Kevin",Sierra Leone,SIL01,0.5,M&E and Learning
+"Sakaguchi, Kevin",Sierra Leone,SIL02,1.0,M&E and Learning
+"Sakaguchi, Kevin",Sierra Leone,SIL03,0.5,M&E and Learning
+"Sharma, Suneeta",CORE G2G,T1.5,14.628,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-EMR ECHIS,C2,9.0,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-EMR ECHIS,T1.8,3.0,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-HIC,C1a,3.76,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-HIC,C1b,11.279,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-Supply Chain,C5,9.847,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-Supply Chain,C6,32.992,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",CORE-Supply Chain,T1.6,4.831,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",Sierra Leone,SIL01,8.64,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",Sierra Leone,SIL02,8.64,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Sharma, Suneeta",Sierra Leone,SIL03,8.65,"Objective 4 Co-Lead - 50% across T1.5, SL"
+"Showalter, Caitlin",Botswana,BOT01,0.67,M&E and Learning
+"Showalter, Caitlin",Botswana,BOT02,0.67,M&E and Learning
+"Showalter, Caitlin",Botswana,BOT03,0.67,M&E and Learning
+"Showalter, Caitlin",Botswana,BOT04,0.67,M&E and Learning
+"Showalter, Caitlin",Botswana,BOT05,0.66,M&E and Learning
+"Showalter, Caitlin",Botswana,BOT06,0.66,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR01,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR02,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR03,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR04,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR05,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR06,0.5,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR07,1.0,M&E and Learning
+"Showalter, Caitlin",Burundi,BUR08,1.0,M&E and Learning
+"Showalter, Caitlin",CORE G2G,T1.5,4.03,M&E and Learning
+"Showalter, Caitlin",CORE-EMR ECHIS,C2,7.254,M&E and Learning
+"Showalter, Caitlin",CORE-EMR ECHIS,T1.8,2.0,M&E and Learning
+"Showalter, Caitlin",CORE-Ebola,E1,6.0,M&E and Learning
+"Showalter, Caitlin",CORE-Ebola,E2,5.0,M&E and Learning
+"Showalter, Caitlin",CORE-Ebola,E3,4.0,M&E and Learning
+"Showalter, Caitlin",CORE-Ebola,T1.4,8.0,M&E and Learning
+"Showalter, Caitlin",CORE-HIC,C1a,5.441,M&E and Learning
+"Showalter, Caitlin",CORE-HIC,C1b,6.65,M&E and Learning
+"Showalter, Caitlin",CORE-Supply Chain,C5,7.746,M&E and Learning
+"Showalter, Caitlin",CORE-Supply Chain,C6,17.144,M&E and Learning
+"Showalter, Caitlin",CORE-Supply Chain,C7,8.811,M&E and Learning
+"Showalter, Caitlin",CORE-Supply Chain,T1.6,3.801,M&E and Learning
+"Showalter, Caitlin",DRC,DRC01,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC03,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC04,4.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC05,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC06,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC07,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC08,2.0,M&E and Learning
+"Showalter, Caitlin",DRC,DRC09,3.0,M&E and Learning
+"Showalter, Caitlin",El Salvador,ELS01,1.0,M&E and Learning
+"Showalter, Caitlin",El Salvador,ELS02,1.0,M&E and Learning
+"Showalter, Caitlin",El Salvador,ELS03,1.0,M&E and Learning
+"Showalter, Caitlin",El Salvador,ELS04,1.0,M&E and Learning
+"Showalter, Caitlin",El Salvador,ELS05,1.0,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW01,0.625,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW02,0.625,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW03,1.25,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW04,0.625,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW07,0.625,M&E and Learning
+"Showalter, Caitlin",Eswatini,ESW08,0.625,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH01,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH02,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH03,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH04,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH05,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH06,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH07,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH08,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH09,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH10,4.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH11,5.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH12,5.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH13,5.0,M&E and Learning
+"Showalter, Caitlin",Ethiopia,ETH14,5.0,M&E and Learning
+"Showalter, Caitlin",Honduras,HON01,1.5,M&E and Learning
+"Showalter, Caitlin",Honduras,HON02,1.5,M&E and Learning
+"Showalter, Caitlin",Honduras,HON03,1.5,M&E and Learning
+"Showalter, Caitlin",Honduras,HON04,1.5,M&E and Learning
+"Showalter, Caitlin",Kenya,KEN01,5.0,M&E and Learning
+"Showalter, Caitlin",Kenya,KEN02,6.0,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES01,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES02,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES03,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES04,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES05,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES06,0.57,M&E and Learning
+"Showalter, Caitlin",Lesotho,LES07,0.58,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD01,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD02,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD03,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD04,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD05,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD06,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD07,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD08,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD09,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD10,0.5,M&E and Learning
+"Showalter, Caitlin",Madagascar,MAD11,1.0,M&E and Learning
+"Showalter, Caitlin",Moldova,MOL03,0.5,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM02,1.0,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM03,1.5,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM04,1.5,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM05,1.0,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM06,1.0,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM08,1.0,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM09,1.0,M&E and Learning
+"Showalter, Caitlin",Namibia,NAM10,1.0,M&E and Learning
+"Showalter, Caitlin",Niger,NIG01,0.24,M&E and Learning
+"Showalter, Caitlin",Niger,NIG02,0.33,M&E and Learning
+"Showalter, Caitlin",Niger,NIG03,0.23,M&E and Learning
+"Showalter, Caitlin",Niger,NIG04,0.16,M&E and Learning
+"Showalter, Caitlin",Niger,NIG05,0.44,M&E and Learning
+"Showalter, Caitlin",Niger,NIG06,0.17,M&E and Learning
+"Showalter, Caitlin",Niger,NIG07,0.4,M&E and Learning
+"Showalter, Caitlin",Niger,NIG08,0.11,M&E and Learning
+"Showalter, Caitlin",Niger,NIG09,0.7,M&E and Learning
+"Showalter, Caitlin",Niger,NIG10,0.22,M&E and Learning
+"Showalter, Caitlin",Nigeria,NRA01,0.5,M&E and Learning
+"Showalter, Caitlin",Nigeria,NRA03,0.5,M&E and Learning
+"Showalter, Caitlin",Nigeria,NRA05,0.5,M&E and Learning
+"Showalter, Caitlin",Nigeria,NRA07,0.5,M&E and Learning
+"Showalter, Caitlin",Sierra Leone,SIL01,0.5,M&E and Learning
+"Showalter, Caitlin",Sierra Leone,SIL02,1.0,M&E and Learning
+"Showalter, Caitlin",Sierra Leone,SIL03,0.5,M&E and Learning
+"Vargas Monzon, Julio",CORE-EMR ECHIS,C2,7.433,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-EMR ECHIS,T1.8,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Ebola,E1,3.0,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Ebola,E2,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Ebola,E3,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Ebola,T1.4,4.0,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-HIC,C1a,5.574,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-HIC,C1b,6.813,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Supply Chain,C5,8.743,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Supply Chain,C6,19.348,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Supply Chain,C7,9.944,Infosec Co-Lead
+"Vargas Monzon, Julio",CORE-Supply Chain,T1.6,4.29,Infosec Co-Lead
+"Vargas Monzon, Julio",El Salvador,ELS01,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",El Salvador,ELS02,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",El Salvador,ELS03,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",El Salvador,ELS04,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",El Salvador,ELS05,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",Honduras,HON01,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",Honduras,HON02,2.0,Infosec Co-Lead
+"Vargas Monzon, Julio",Honduras,HON03,3.0,Infosec Co-Lead
+"Vargas Monzon, Julio",Honduras,HON04,3.0,Infosec Co-Lead
