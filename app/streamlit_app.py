@@ -43,9 +43,23 @@ cap = sb.number_input("Monthly cap per person (days)", min_value=1.0, max_value=
                       help="21.7 = 260 working days / 12.")
 hard = sb.checkbox("Enforce cap as a hard limit", value=False,
                    help="Off: months over the cap are flagged. On: the solver must stay under it, and reports people for whom that is impossible.")
-objective = sb.radio("Objective", list(sc.OBJECTIVES), format_func=sc.OBJECTIVES.get)
+exclude_september = sb.checkbox("Do not bill in September", value=False,
+                                help="Excludes every September from scheduling. The solver shifts that LOE into the remaining active months, such as October.")
+objective_label, objective_info = sb.columns([4, 1])
+objective_label.markdown("**Objective**")
+with objective_info:
+    with st.popover("Info", help="Explain the scheduling objectives"):
+        st.markdown("""
+        **Level** minimizes each person's busiest month, then spreads each milestone as evenly as possible.
+
+        **Spread** spreads each milestone as evenly as possible without trying to reduce a person's overall monthly peaks.
+
+        **Front** puts work in the earliest available months. If the hard cap is enabled, it fills earlier months up to that cap first.
+        """)
+objective = sb.radio("Objective", list(sc.OBJECTIVES), format_func=sc.OBJECTIVES.get, label_visibility="collapsed")
 seconds = sb.slider("Solver time per person (seconds)", 1, 30, 5)
-rules = sc.Rules(step=step, min_bill=min_bill, cap=cap, hard_cap=hard, objective=objective, seconds=float(seconds))
+rules = sc.Rules(step=step, min_bill=min_bill, cap=cap, hard_cap=hard, exclude_september=exclude_september,
+                 objective=objective, seconds=float(seconds))
 for m in rules.validate(): sb.error(m)
 
 sb.divider()
@@ -175,16 +189,22 @@ with tabs[3]:
         st.info("Set the rules in the sidebar, then click Optimize.")
     else:
         r = res.rules
-        st.caption(f"Results use: increment {r.step:g} d · min entry {r.min_bill:g} d · cap {r.cap:g} d ({'hard' if r.hard_cap else 'flag only'}) · {sc.OBJECTIVES[r.objective]}")
+        st.caption(
+            f"Results use: increment {r.step:g} d · min entry {r.min_bill:g} d · cap {r.cap:g} d "
+            f"({'hard' if r.hard_cap else 'flag only'}) · "
+            f"{'September excluded · ' if r.exclude_september else ''}{sc.OBJECTIVES[r.objective]}"
+        )
         f = res.flags
         k1, k2, k3, k4, k5 = st.columns(5)
         k1.metric("Allotted days", f"{res.check.allotted.sum():,.1f}")
         k2.metric("Scheduled days", f"{res.check.scheduled.sum():,.1f}")
         k3.metric("Rounded cells", int(f.flag.isin(["ROUNDED", "ROUNDED TO ZERO"]).sum()))
-        k4.metric("Not scheduled", int((f.flag.isin(["NOT SCHEDULED", "INFEASIBLE"])).sum()))
+        k4.metric("Not scheduled", int((f.flag.isin(["NOT SCHEDULED", "INFEASIBLE", "NOT SOLVED"])).sum()))
         k5.metric("Over-cap person-months", int((f.flag == "OVER CAP").sum()))
         if (f.flag == "INFEASIBLE").any():
-            st.error("Some people could not be scheduled under these rules: " + ", ".join(sorted(f[f.flag == "INFEASIBLE"].person)))
+            st.error("Some people could not be scheduled under these rules. See the Flags tab for a person-specific capacity explanation.")
+        if (f.flag == "NOT SOLVED").any():
+            st.warning("The solver timed out before finding schedules for some people. See the Flags tab and increase solver time if needed.")
         sub = st.tabs(["Heatmap", "Person view", "Milestone view", "Full schedule", "Flags", "Check"])
         pm = sc.person_month(res)
         with sub[0]:
@@ -204,12 +224,25 @@ with tabs[3]:
         with sub[1]:
             who = st.selectbox("Person", sorted(res.schedule.person.unique()) if len(res.schedule) else [])
             if who:
-                s = res.schedule[res.schedule.person == who].copy(); s["ms"] = s.budget + " " + s.milestone
-                st.altair_chart(alt.Chart(s).mark_bar().encode(
+                grouping = st.radio(
+                    "Show monthly LOE by",
+                    ["Budget × milestone", "Country / budget total"],
+                    horizontal=True,
+                )
+                s = res.schedule[res.schedule.person == who].copy()
+                if grouping == "Budget × milestone":
+                    s["group"] = s.budget + " · " + s.milestone
+                    group_title = "budget · milestone"
+                else:
+                    s["group"] = s.budget
+                    group_title = "country / budget"
+                chart_data = s.groupby(["month", "group"], as_index=False)["days"].sum()
+                st.altair_chart(alt.Chart(chart_data).mark_bar().encode(
                     x=alt.X("yearmonth(month):O", title=None, axis=alt.Axis(format="%b-%y")), y=alt.Y("sum(days):Q", title="days"),
-                    color=alt.Color("ms:N", title="budget · milestone"), tooltip=["budget", "milestone", alt.Tooltip("month:T", format="%b-%y"), "days"]).properties(height=320)
+                    color=alt.Color("group:N", title=group_title),
+                    tooltip=["group", alt.Tooltip("month:T", format="%b-%y"), "days"]).properties(height=320)
                     + alt.Chart(pd.DataFrame({"cap": [r.cap]})).mark_rule(color="red", strokeDash=[5, 3]).encode(y="cap:Q"), width="stretch")
-                piv = s.pivot_table(index=["budget", "milestone"], columns=s.month.map(lambda x: x.strftime("%b-%y")), values="days", aggfunc="sum", fill_value=0)
+                piv = s.pivot_table(index="group", columns=s.month.map(lambda x: x.strftime("%b-%y")), values="days", aggfunc="sum", fill_value=0)
                 piv = piv[sorted(piv.columns, key=lambda c: dt.datetime.strptime(c, "%b-%y"))]
                 piv["Total"] = piv.sum(axis=1)
                 st.dataframe(piv, width="stretch")

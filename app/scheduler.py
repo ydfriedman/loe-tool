@@ -18,7 +18,7 @@ from ortools.sat.python import cp_model
 OBJECTIVES = {
     "level": "Level each person's load, then spread each milestone evenly",
     "spread": "Spread each milestone evenly only (ignore person-level peaks)",
-    "front": "Level each person's load, then bill as early as possible",
+    "front": "Bill as early as possible",
 }
 
 
@@ -28,6 +28,7 @@ class Rules:
     min_bill: float = 0.5        # smallest non-zero monthly entry (multiple of step)
     cap: float = 21.7            # days / month a person can bill (flag, or hard limit if hard_cap)
     hard_cap: bool = False
+    exclude_september: bool = False
     objective: str = "level"
     seconds: float = 5.0         # solver time per stage per person
     workers: int = 8
@@ -58,11 +59,14 @@ def months_between(start, end) -> list[dt.date]:
     return out
 
 
-def active_map(ms: pd.DataFrame) -> dict[tuple[str, str], list[dt.date]]:
+def active_map(ms: pd.DataFrame, excluded_months: Iterable[int] = ()) -> dict[tuple[str, str], list[dt.date]]:
+    excluded_months = set(excluded_months)
     out = {}
     for r in ms.itertuples():
         if pd.isna(r.budget) or pd.isna(r.milestone): continue
-        out[(str(r.budget).strip(), str(r.milestone).strip())] = months_between(r.start, r.end)
+        out[(str(r.budget).strip(), str(r.milestone).strip())] = [
+            month for month in months_between(r.start, r.end) if month.month not in excluded_months
+        ]
     return out
 
 
@@ -127,14 +131,14 @@ def _solve_person(units, months_of, rules: Rules, min_units: int):
         for t in allm: mdl.Add(load[t] <= cap_units)
     s = cp_model.CpSolver(); s.parameters.max_time_in_seconds = rules.seconds; s.parameters.num_workers = rules.workers
 
-    best = None
-    if rules.objective in ("level", "front"):
+    if rules.objective == "level":
         peak = mdl.NewIntVar(0, max(sum(units.values()), 1), "")
         for t in allm: mdl.Add(load[t] <= peak)
         mdl.Minimize(peak)
         r = s.Solve(mdl)
-        if r not in (cp_model.OPTIMAL, cp_model.FEASIBLE): return None, "infeasible"
-        best = int(s.ObjectiveValue()); mdl.Add(peak <= best)
+        if r not in (cp_model.OPTIMAL, cp_model.FEASIBLE):
+            return None, "infeasible" if r == cp_model.INFEASIBLE else "not solved"
+        mdl.Add(peak <= int(s.ObjectiveValue()))
     mdl.ClearObjective()
     if rules.objective == "front":
         order = {t: i for i, t in enumerate(allm)}
@@ -150,7 +154,41 @@ def _solve_person(units, months_of, rules: Rules, min_units: int):
     r2 = s.Solve(mdl)
     if r2 in (cp_model.OPTIMAL, cp_model.FEASIBLE):
         return {k: s.Value(v) for k, v in x.items()}, "ok" if r2 == cp_model.OPTIMAL else "ok (time limit)"
-    return None, "infeasible"
+    return None, "infeasible" if r2 == cp_model.INFEASIBLE else "not solved"
+
+
+def infeasibility_explanation(units: dict, months_of: dict, rules: Rules) -> str:
+    """Describe a hard-cap capacity bottleneck that makes one person's schedule impossible."""
+    if not rules.hard_cap:
+        return "The solver found no feasible schedule, but no hard-cap capacity bottleneck applies."
+
+    cells = [cell for cell, units_for_cell in units.items() if units_for_cell > 0]
+    months = sorted({month for cell in cells for month in months_of[cell]})
+    cap_units = int(math.floor(rules.cap / rules.step + 1e-9))
+    bottlenecks = []
+    for start in range(len(months)):
+        for end in range(start, len(months)):
+            window = set(months[start:end + 1])
+            constrained = [cell for cell in cells if set(months_of[cell]).issubset(window)]
+            required = sum(units[cell] for cell in constrained)
+            capacity = len(window) * cap_units
+            if required > capacity:
+                bottlenecks.append((required - capacity, required, capacity, start, end, constrained))
+
+    if not bottlenecks:
+        return "The solver found no feasible schedule under the current rules; no single capacity-window bottleneck was identified."
+
+    _, required, capacity, start, end, constrained = max(bottlenecks)
+    first, last = months[start], months[end]
+    period = f"{first:%b-%y}" if first == last else f"{first:%b-%y}–{last:%b-%y}"
+    cells_text = ", ".join(f"{budget} / {milestone}" for budget, milestone in constrained[:3])
+    if len(constrained) > 3:
+        cells_text += f", and {len(constrained) - 3} more"
+    return (
+        f"Hard-cap bottleneck in {period}: {required * rules.step:g} d must be billed by this person "
+        f"within those months, but the {rules.cap:g}-d/month cap allows only {capacity * rules.step:g} d. "
+        f"Affected milestones: {cells_text}."
+    )
 
 
 @dataclass
@@ -164,7 +202,9 @@ class Result:
 
 def run_optimization(loe: pd.DataFrame, ms: pd.DataFrame, rules: Rules, people: Iterable[str] | None = None,
                      progress: Callable[[int, int, str], None] | None = None) -> Result:
-    d = clean_loe(loe); act = active_map(ms)
+    d = clean_loe(loe)
+    source_months = active_map(ms)
+    act = active_map(ms, (9,) if rules.exclude_september else ())
     if people is not None: d = d[d.person.isin(list(people))]
     min_units = max(1, int(round(rules.min_bill / rules.step)))
     sched, check, flags, status = [], [], [], {}
@@ -176,7 +216,14 @@ def run_optimization(loe: pd.DataFrame, ms: pd.DataFrame, rules: Rules, people: 
         ok = {c: v for c, v in cells.items() if act.get(c)}
         for c, v in cells.items():
             if c not in ok:
-                why = "milestone not in table" if c not in act else "milestone has no valid months (dates missing or end < start)"
+                if c not in source_months:
+                    why = "milestone not in table"
+                elif not source_months[c]:
+                    why = "milestone has no valid months (dates missing or end < start)"
+                elif rules.exclude_september:
+                    why = "milestone has no billable months after excluding September"
+                else:
+                    why = "milestone has no billable months"
                 flags.append((p, c[0], c[1], "NOT SCHEDULED", f"{v:g} d allotted but {why}"))
         units = round_units(ok, rules.step, min_units)
         for c, v in ok.items():
@@ -187,7 +234,10 @@ def run_optimization(loe: pd.DataFrame, ms: pd.DataFrame, rules: Rules, people: 
         sol, st = _solve_person(units, act, rules, min_units) if any(units.values()) else ({}, "ok")
         status[p] = st
         if sol is None:
-            flags.append((p, "", "", "INFEASIBLE", "No schedule satisfies the rules" + (" (try turning off the hard cap or relaxing the minimum entry)" if rules.hard_cap or min_units > 1 else "")))
+            if st == "infeasible":
+                flags.append((p, "", "", "INFEASIBLE", infeasibility_explanation(units, act, rules)))
+            else:
+                flags.append((p, "", "", "NOT SOLVED", "The solver reached its time limit before finding a schedule. Increase solver time and try again."))
             for c, v in cells.items(): check.append((p, c[0], c[1], v, 0.0, -v, "Not scheduled"))
             continue
         got = {}
@@ -214,15 +264,25 @@ def person_month(res: Result) -> pd.DataFrame:
     return res.schedule.pivot_table(index="person", columns="month", values="days", aggfunc="sum", fill_value=0.0)
 
 
+def person_country_month(res: Result) -> pd.DataFrame:
+    """Roll scheduled days up to each person within each country/budget and month."""
+    if res.schedule.empty: return pd.DataFrame()
+    return res.schedule.pivot_table(index=["budget", "person"], columns="month", values="days", aggfunc="sum", fill_value=0.0)
+
+
 def to_workbook(res: Result, loe: pd.DataFrame, ms: pd.DataFrame) -> bytes:
     """Excel export: results plus the inputs that produced them."""
     pm = person_month(res).copy()
     if len(pm):
         pm.columns = [c.strftime("%b-%y") for c in pm.columns]
         pm["Total"] = pm.sum(axis=1)
-    summ = pd.DataFrame({"Metric": ["Billing increment (d)", "Minimum monthly entry (d)", "Monthly cap (d)", "Hard cap", "Objective",
+    pcm = person_country_month(res).copy()
+    if len(pcm):
+        pcm.columns = [c.strftime("%b-%y") for c in pcm.columns]
+        pcm["Total"] = pcm.sum(axis=1)
+    summ = pd.DataFrame({"Metric": ["Billing increment (d)", "Minimum monthly entry (d)", "Monthly cap (d)", "Hard cap", "Exclude September", "Objective",
                                     "Cells", "Rounded", "Not scheduled", "Over-cap person-months", "Allotted days", "Scheduled days"],
-                         "Value": [res.rules.step, res.rules.min_bill, res.rules.cap, res.rules.hard_cap, OBJECTIVES[res.rules.objective],
+                         "Value": [res.rules.step, res.rules.min_bill, res.rules.cap, res.rules.hard_cap, res.rules.exclude_september, OBJECTIVES[res.rules.objective],
                                    len(res.check), int(res.flags.flag.isin(["ROUNDED", "ROUNDED TO ZERO"]).sum()),
                                    int((res.flags.flag == "NOT SCHEDULED").sum()), int((res.flags.flag == "OVER CAP").sum()),
                                    round(res.check.allotted.sum(), 2), round(res.check.scheduled.sum(), 2)]})
@@ -231,6 +291,7 @@ def to_workbook(res: Result, loe: pd.DataFrame, ms: pd.DataFrame) -> bytes:
         summ.to_excel(xw, sheet_name="Summary", index=False)
         res.schedule.to_excel(xw, sheet_name="Schedule", index=False)
         pm.to_excel(xw, sheet_name="Person x Month")
+        pcm.to_excel(xw, sheet_name="People by Country x Month")
         res.check.to_excel(xw, sheet_name="Check", index=False)
         res.flags.to_excel(xw, sheet_name="Flags", index=False)
         ms.to_excel(xw, sheet_name="Input - Milestones", index=False)

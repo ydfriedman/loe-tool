@@ -11,8 +11,9 @@ streamlit run app/streamlit_app.py
 * **1 Milestone timeline** – Gantt per budget; edit start/end months (notes show where source workplans disagreed).
 * **2 LOE per person** – edit days per person x budget x milestone; add rows for new people.
 * **3 Check inputs** – missing dates, LOE on unknown milestones, milestones with no LOE, rounding preview.
-* **4 Optimize & results** – heatmap vs cap, person / milestone views, flags, Excel export of results + inputs.
-* **Sidebar** – billing increment, minimum monthly entry, monthly cap (flag or hard), objective, solver time;
+* **4 Optimize & results** – heatmap vs cap, person and milestone views (with a person-level country/budget rollup
+  toggle), person-specific hard-cap explanations, flags, Excel export of results + inputs.
+* **Sidebar** – billing increment, minimum monthly entry, monthly cap (flag or hard), September exclusion, an Objective info button, solver time;
   download the inputs workbook for others to fill in, upload it back.
 
 Data lives in `app/data/` (seed CSVs from the 13 Oct budgets and the Oct workplans). Edits are held per browser
